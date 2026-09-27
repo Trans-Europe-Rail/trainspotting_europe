@@ -1,1 +1,228 @@
+[
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U1",
+    "Depart": "Uhlandstraße",
+    "Terminus": "Warschauer Straße",
+    "Materiel": "Garit étroit (IK, HK) - Viaducs aériens historiques (Skalitzer Str.)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U2",
+    "Depart": "Pankow",
+    "Terminus": "Ruhleben",
+    "Materiel": "Gabarit étroit (Série GI/1, HK, IK)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U3",
+    "Depart": "Krumme Lanke",
+    "Terminus": "Warschauer Straße",
+    "Materiel": "Gabarit étroit (IK, HK)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U4",
+    "Depart": "Nollendorfplatz",
+    "Terminus": "Innsbrucker Platz",
+    "Materiel": "Gabarit étroit - Ligne la plus courte du réseau"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U5",
+    "Depart": "Hauptbahnhof",
+    "Terminus": "Hönow",
+    "Materiel": "Grand gabarit (Série H, F) - Traverse l'Est berlinois"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U6",
+    "Depart": "Alt-Tegel",
+    "Terminus": "Alt-Mariendorf",
+    "Materiel": "Grand gabarit (Série F, H)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U7",
+    "Depart": "Rathaus Spandau",
+    "Terminus": "Rudow",
+    "Materiel": "Grand gabarit (Série F, H) - Ligne la plus longue du réseau"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U8",
+    "Depart": "Wittenau",
+    "Terminus": "Hermannstraße",
+    "Materiel": "Grand gabarit (Série F, H)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U9",
+    "Depart": "Rathaus Steglitz",
+    "Terminus": "Osloer Straße",
+    "Materiel": "Grand gabarit (Série F, H)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S1",
+    "Depart": "Oranienburg",
+    "Terminus": "Wannsee",
+    "Materiel": "Automotrices Br 481 / Br 483 / Br 484 - Nord-Sud"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S2",
+    "Depart": "Bernau",
+    "Terminus": "Blankenfelde",
+    "Materiel": "Automotrices Br 481 / Br 482"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S25",
+    "Depart": "Hennigsdorf",
+    "Terminus": "Teltow Stadt",
+    "Materiel": "Automotrices Br 481"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S26",
+    "Depart": "Teltow Stadt",
+    "Terminus": "Waidmannslust",
+    "Materiel": "Automotrices Br 481"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S3",
+    "Depart": "Erkner",
+    "Terminus": "Spandau",
+    "Materiel": "Automotrices Br 481 / Rames Stadler Br 483/484"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S5",
+    "Depart": "Strausberg Nord",
+    "Terminus": "Westkreuz",
+    "Materiel": "Automotrices Br 481"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S7",
+    "Depart": "Ahrensfelde",
+    "Terminus": "Potsdam Hauptbahnhof",
+    "Materiel": "Automotrices Br 481 - Ligne touristique/Spotteur majeure (Stadtbahn)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S75",
+    "Depart": "Wartenberg",
+    "Terminus": "Warschauer Straße",
+    "Materiel": "Automotrices Br 481"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S41",
+    "Depart": "Ringbahn (Horaire)",
+    "Terminus": "Ligne Circulaire",
+    "Materiel": "Automotrices Br 481 / Br 483 / Br 484 - Ceinture de Berlin"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S42",
+    "Depart": "Ringbahn (Anti-horaire)",
+    "Terminus": "Ligne Circulaire",
+    "Materiel": "Automotrices Br 481 / Br 483 / Br 484"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S45",
+    "Depart": "Aéroport BER",
+    "Terminus": "Südkreuz",
+    "Materiel": "Automotrices Br 481"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S46",
+    "Depart": "Königs Wusterhausen",
+    "Terminus": "Westend",
+    "Materiel": "Automotrices Br 481"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S47",
+    "Depart": "Spindlersfeld",
+    "Terminus": "Hermannstraße",
+    "Materiel": "Automotrices Br 481"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S8",
+    "Depart": "Wildau",
+    "Terminus": "Birkenwerder",
+    "Materiel": "Automotrices Br 481"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S85",
+    "Depart": "Grünau",
+    "Terminus": "Pankow",
+    "Materiel": "Automotrices Br 481"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandebourg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S9",
+    "Depart": "Aéroport BER",
+    "Terminus": "Spandau",
+    "Materiel": "Automotrices Br 483 / Br 484 / Br 481 - Traverse tout le centre via la Stadtbahn"
+  }
+]
 
