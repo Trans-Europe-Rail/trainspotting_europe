@@ -1,0 +1,119 @@
+[
+  {
+    "Pays": "Allemagne",
+    "Region": "Rhénanie",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 1 (NRW - Rhein-Ruhr-Express)",
+    "Depart": "Aachen Hbf",
+    "Terminus": "Hamm(Westf)Hbf",
+    "Gares_Desservies": "Aachen Hbf - Eschweiler Hbf - Düren - Horrem - Köln Hbf - Düsseldorf Hbf - Duisburg Hbf - Essen Hbf - Bochum Hbf - Dortmund Hbf - Hamm(Westf)Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Rhénanie",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 5 (NRW - Rhein-Ruhr-Express)",
+    "Depart": "Wesel",
+    "Terminus": "Koblenz Hbf",
+    "Gares_Desservies": "Wesel - Oberhausen Hbf - Duisburg Hbf - Düsseldorf Hbf - Köln Hbf - Bonn Hbf - Remagen - Andernach - Koblenz Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Rhénanie",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 6 (NRW - Rhein-Ruhr-Express)",
+    "Depart": "Köln/Bonn Flughafen",
+    "Terminus": "Minden(Westf)",
+    "Gares_Desservies": "Köln/Bonn Flughafen - Köln Hbf - Neuss Hbf - Düsseldorf Hbf - Duisburg Hbf - Essen Hbf - Dortmund Hbf - Hamm(Westf)Hbf - Bielefeld Hbf - Minden(Westf)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Rhénanie",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 8 (Rhein-Erft-Express)",
+    "Depart": "Mönchengladbach Hbf",
+    "Terminus": "Koblenz Hbf",
+    "Gares_Desservies": "Mönchengladbach Hbf - Rheydt Hbf - Grevenbroich - Rommerskirchen - Köln-Ehrenfeld - Köln Hbf - Köln/Bonn Flughafen - Troisdorf - Bonn-Beuel - Linz(Rhein) - Neuwied - Koblenz Stadtmitte - Koblenz Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Rhénanie",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 11 (NRW - Rhein-Ruhr-Express)",
+    "Depart": "Düsseldorf Hbf",
+    "Terminus": "Kassel-Wilhelmshöhe",
+    "Gares_Desservies": "Düsseldorf Hbf - Duisburg Hbf - Essen Hbf - Bochum Hbf - Dortmund Hbf - Hamm(Westf)Hbf - Paderborn Hbf - Warburg(Westf) - Kassel-Wilhelmshöhe"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Rhénanie",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 48 (Rhein-Wupper-Bahn)",
+    "Depart": "Wuppertal-Oberbarmen",
+    "Terminus": "Bonn-Mehlem",
+    "Gares_Desservies": "Wuppertal-Oberbarmen - Wuppertal Hbf - Solingen Hbf - Opladen - Köln-Mülheim - Köln Hbf - Köln West - Bonn Hbf - Bonn-Bad Godesberg - Bonn-Mehlem"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Rhénanie",
+    "Type": "Banlieue (S-Bahn Rhein-Ruhr)",
+    "Ligne": "S 1",
+    "Depart": "Solingen Hbf",
+    "Terminus": "Dortmund Hbf",
+    "Gares_Desservies": "Solingen Hbf - Hilden - Düsseldorf Hbf - Düsseldorf Flughafen - Duisburg Hbf - Mülheim(Ruhr)Hbf - Essen Hbf - Wattenscheid-Höntrop - Bochum Hbf - Dortmund-Dorstfeld - Dortmund Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Rhénanie",
+    "Type": "Banlieue (S-Bahn Rhein-Ruhr)",
+    "Ligne": "S 6",
+    "Depart": "Essen Hbf",
+    "Terminus": "Köln-Nippes",
+    "Gares_Desservies": "Essen Hbf - Kettwig - Ratingen Ost - Düsseldorf Hbf - Düsseldorf-Benrath - Langenfeld(Rhld) - Leverkusen Mitte - Köln-Mülheim - Köln Hbf - Köln-Nippes"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Rhénanie",
+    "Type": "Banlieue (S-Bahn Rhein-Ruhr)",
+    "Ligne": "S 11",
+    "Depart": "Düsseldorf Flughafen Terminal",
+    "Terminus": "Bergisch Gladbach",
+    "Gares_Desservies": "Düsseldorf Flughafen Terminal - Düsseldorf Hbf - Neuss Hbf - Dormagen - Köln-Nippes - Köln Hbf - Köln-Mülheim - Bergisch Gladbach"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Rhénanie",
+    "Type": "Banlieue (S-Bahn Cologne)",
+    "Ligne": "S 12",
+    "Depart": "Horrem",
+    "Terminus": "Au(Sieg)",
+    "Gares_Desservies": "Horrem - Köln-Ehrenfeld - Köln Hbf - Köln Messe/Deutz - Porz(Rhein) - Troisdorf - Siegburg/Bonn - Hennef(Sieg) - Eitorf - Au(Sieg)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Rhénanie",
+    "Type": "Banlieue (S-Bahn Cologne)",
+    "Ligne": "S 19",
+    "Depart": "Düren",
+    "Terminus": "Au(Sieg)",
+    "Gares_Desservies": "Düren - Horrem - Köln-Ehrenfeld - Köln Hbf - Köln Messe/Deutz - Köln/Bonn Flughafen - Troisdorf - Siegburg/Bonn - Hennef(Sieg) - Au(Sieg)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Rhénanie",
+    "Type": "Métro léger (Stadtbahn Köln)",
+    "Ligne": "Ligne 16",
+    "Depart": "Köln-Niehl",
+    "Terminus": "Bonn-Bad Godesberg",
+    "Gares_Desservies": "Niehl - Amsterdamer Str. - Ebertplatz - Hauptbahnhof - Dom/Hbf - Neumarkt - Ubierring - Sürth - Wesseling - Bornheim - Bonn Hbf - Bad Godesberg Stadthalle"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Rhénanie",
+    "Type": "Métro léger (Stadtbahn Köln)",
+    "Ligne": "Ligne 18",
+    "Depart": "Thielenbruch",
+    "Terminus": "Bonn Hbf",
+    "Gares_Desservies": "Thielenbruch - Buchheim - Ebertplatz - Hauptbahnhof - Dom/Hbf - Neumarkt - Barbarossaplatz - Hürth - Brühl - Schwadorf - Bornheim - Bonn Hbf"
+  }
+]
