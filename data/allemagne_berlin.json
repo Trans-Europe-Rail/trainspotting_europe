@@ -1,228 +1,235 @@
 [
   {
     "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
-    "Type": "Métro (U-Bahn)",
-    "Ligne": "U1",
-    "Depart": "Uhlandstraße",
-    "Terminus": "Warschauer Straße",
-    "Materiel": "Garit étroit (IK, HK) - Viaducs aériens historiques (Skalitzer Str.)"
+    "Region": "Berlin-Brandenburg",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 1 (Magdeburg-Cottbus)",
+    "Depart": "Magdeburg Hbf",
+    "Terminus": "Cottbus Hbf",
+    "Gares_Desservies": "Magdeburg - Brandenburg Hbf - Potsdam Hbf - Berlin-Wannsee - Berlin-Charlottenburg - Berlin Zoologischer Garten - Berlin Hbf - Berlin Friedrichstraße - Berlin Alexanderplatz - Berlin Ostbahnhof - Berlin-Ostkreuz - Erkner - Fürstenwalde - Frankfurt(Oder) - Eisenhüttenstadt - Cottbus Hbf"
   },
   {
     "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
-    "Type": "Métro (U-Bahn)",
-    "Ligne": "U2",
-    "Depart": "Pankow",
-    "Terminus": "Ruhleben",
-    "Materiel": "Gabarit étroit (Série GI/1, HK, IK)"
+    "Region": "Berlin-Brandenburg",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 2",
+    "Depart": "Nauen",
+    "Terminus": "Cottbus Hbf",
+    "Gares_Desservies": "Nauen - Falkensee - Berlin-Spandau - Berlin Zoologischer Garten - Berlin Hbf - Berlin Friedrichstraße - Berlin Alexanderplatz - Berlin Ostbahnhof - Berlin-Ostkreuz - Königs Wusterhausen - Lübben - Lübbenau - Cottbus Hbf"
   },
   {
     "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
-    "Type": "Métro (U-Bahn)",
-    "Ligne": "U3",
-    "Depart": "Krumme Lanke",
-    "Terminus": "Warschauer Straße",
-    "Materiel": "Gabarit étroit (IK, HK)"
+    "Region": "Berlin-Brandenburg",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 3",
+    "Depart": "Stralsund Hbf / Schwedt(Oder)",
+    "Terminus": "Lutherstadt Wittenberg Hbf / Falkenberg(Elster)",
+    "Gares_Desservies": "Stralsund / Schwedt - Angermünde - Eberswalde Hbf - Bernau - Berlin-Gesundbrunnen - Berlin Hbf - Berlin Potsdamer Platz - Berlin Südkreuz - Berlin-Lichterfelde Ost - Ludwigsfelde - Jüterbog - Lutherstadt Wittenberg / Falkenberg"
   },
   {
     "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
-    "Type": "Métro (U-Bahn)",
-    "Ligne": "U4",
-    "Depart": "Nollendorfplatz",
-    "Terminus": "Innsbrucker Platz",
-    "Materiel": "Gabarit étroit - Ligne la plus courte du réseau"
+    "Region": "Berlin-Brandenburg",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 7",
+    "Depart": "Dessau Hbf",
+    "Terminus": "Senftenberg",
+    "Gares_Desservies": "Dessau Hbf - Bad Belzig - Michendorf - Potsdam Medienstadt Babelsberg - Berlin-Wannsee - Berlin-Charlottenburg - Berlin Zoologischer Garten - Berlin Hbf - Berlin Friedrichstraße - Berlin Alexanderplatz - Berlin Ostbahnhof - Berlin-Ostkreuz - Aéroport BER - Wünsdorf-Waldstadt - Elsterwerda - Senftenberg"
   },
   {
     "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
-    "Type": "Métro (U-Bahn)",
-    "Ligne": "U5",
-    "Depart": "Hauptbahnhof",
-    "Terminus": "Hönow",
-    "Materiel": "Grand gabarit (Série H, F) - Traverse l'Est berlinois"
+    "Region": "Berlin-Brandenburg",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 8",
+    "Depart": "Wismar",
+    "Terminus": "Aéroport BER",
+    "Gares_Desservies": "Wismar - Schwerin Hbf - Wittenberge - Neustadt(Dosse) - Nauen - Berlin-Spandau - Berlin Zoologischer Garten - Berlin Hbf - Berlin Friedrichstraße - Berlin Alexanderplatz - Berlin Ostbahnhof - Berlin-Ostkreuz - Aéroport BER"
   },
   {
     "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
-    "Type": "Métro (U-Bahn)",
-    "Ligne": "U6",
-    "Depart": "Alt-Tegel",
-    "Terminus": "Alt-Mariendorf",
-    "Materiel": "Grand gabarit (Série F, H)"
+    "Region": "Berlin-Brandenburg",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 10",
+    "Depart": "Nauen",
+    "Terminus": "Berlin Südkreuz",
+    "Gares_Desservies": "Nauen - Falkensee - Berlin-Spandau - Berlin Jungfernheide - Berlin Hbf - Berlin Potsdamer Platz - Berlin Südkreuz"
   },
   {
     "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
-    "Type": "Métro (U-Bahn)",
-    "Ligne": "U7",
-    "Depart": "Rathaus Spandau",
-    "Terminus": "Rudow",
-    "Materiel": "Grand gabarit (Série F, H) - Ligne la plus longue du réseau"
+    "Region": "Berlin-Brandenburg",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 23",
+    "Depart": "Golm",
+    "Terminus": "Aéroport BER",
+    "Gares_Desservies": "Golm - Potsdam Hbf - Potsdam Griebnitzsee - Berlin-Wannsee - Berlin-Charlottenburg - Berlin Zoologischer Garten - Berlin Hbf - Berlin Friedrichstraße - Berlin Alexanderplatz - Berlin Ostbahnhof - Berlin-Ostkreuz - Aéroport BER"
   },
   {
     "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
-    "Type": "Métro (U-Bahn)",
-    "Ligne": "U8",
-    "Depart": "Wittenau",
-    "Terminus": "Hermannstraße",
-    "Materiel": "Grand gabarit (Série F, H)"
-  },
-  {
-    "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
-    "Type": "Métro (U-Bahn)",
-    "Ligne": "U9",
-    "Depart": "Rathaus Steglitz",
-    "Terminus": "Osloer Straße",
-    "Materiel": "Grand gabarit (Série F, H)"
-  },
-  {
-    "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
+    "Region": "Berlin-Brandenburg",
     "Type": "Banlieue (S-Bahn)",
     "Ligne": "S1",
     "Depart": "Oranienburg",
     "Terminus": "Wannsee",
-    "Materiel": "Automotrices Br 481 / Br 483 / Br 484 - Nord-Sud"
+    "Gares_Desservies": "Oranienburg - Lehnitz - Borgsdorf - Birkenwerder - Hohen Neuendorf - Frohnau - Hermsdorf - Waidmannslust - Wittenau - Wilhelmsruh - Schönholz - Wollankstraße - Bornholmer Straße - Gesundbrunnen - Humboldthain - Nordbahnhof - Oranienburger Straße - Friedrichstraße - Brandenburger Tor - Potsdamer Platz - Anhalter Bahnhof - Yorckstraße - Julius-Leber-Brücke - Schöneberg - Friedenau - Feuerbachstraße - Rathaus Steglitz - Botanischer Garten - Lichterfelde West - Sundgauer Straße - Zehlendorf - Mexikoplatz - Schlachtensee - Nikolassee - Wannsee"
   },
   {
     "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
+    "Region": "Berlin-Brandenburg",
     "Type": "Banlieue (S-Bahn)",
     "Ligne": "S2",
     "Depart": "Bernau",
     "Terminus": "Blankenfelde",
-    "Materiel": "Automotrices Br 481 / Br 482"
+    "Gares_Desservies": "Bernau - Bernau-Friedenstal - Zepernick - Röntgental - Buch - Karow - Blankenburg - Pankow-Heinersdorf - Pankow - Bornholmer Straße - Gesundbrunnen - Humboldthain - Nordbahnhof - Oranienburger Straße - Friedrichstraße - Brandenburger Tor - Potsdamer Platz - Anhalter Bahnhof - Yorckstraße - Südkreuz - Priesterweg - Attilastraße - Marienfelde - Buckower Chaussee - Schichauweg - Lichtenrade - Mahlow - Blankenfelde"
   },
   {
     "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
-    "Type": "Banlieue (S-Bahn)",
-    "Ligne": "S25",
-    "Depart": "Hennigsdorf",
-    "Terminus": "Teltow Stadt",
-    "Materiel": "Automotrices Br 481"
-  },
-  {
-    "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
-    "Type": "Banlieue (S-Bahn)",
-    "Ligne": "S26",
-    "Depart": "Teltow Stadt",
-    "Terminus": "Waidmannslust",
-    "Materiel": "Automotrices Br 481"
-  },
-  {
-    "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
+    "Region": "Berlin-Brandenburg",
     "Type": "Banlieue (S-Bahn)",
     "Ligne": "S3",
-    "Depart": "Erkner",
-    "Terminus": "Spandau",
-    "Materiel": "Automotrices Br 481 / Rames Stadler Br 483/484"
+    "Depart": "Spandau",
+    "Terminus": "Erkner",
+    "Gares_Desservies": "Spandau - Stresow - Pichelsberg - Olympiastadion - Heerstraße - Messe Süd - Westkreuz - Charlottenburg - Savignyplatz - Zoologischer Garten - Tiergarten - Bellevue - Hauptbahnhof - Friedrichstraße - Hackescher Markt - Alexanderplatz - Jannowitzbrücke - Ostbahnhof - Warschauer Straße - Ostkreuz - Rummelsburg - Betriebsbahnhof Rummelsburg - Karlshorst - Wuhlheide - Köpenick - Hirschgarten - Friedrichshagen - Rahnsdorf - Wilhelmshagen - Erkner"
   },
   {
     "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
+    "Region": "Berlin-Brandenburg",
     "Type": "Banlieue (S-Bahn)",
     "Ligne": "S5",
-    "Depart": "Strausberg Nord",
-    "Terminus": "Westkreuz",
-    "Materiel": "Automotrices Br 481"
+    "Depart": "Westkreuz",
+    "Terminus": "Strausberg Nord",
+    "Gares_Desservies": "Westkreuz - Charlottenburg - Savignyplatz - Zoologischer Garten - Tiergarten - Bellevue - Hauptbahnhof - Friedrichstraße - Hackescher Markt - Alexanderplatz - Jannowitzbrücke - Ostbahnhof - Warschauer Straße - Ostkreuz - Nöldnerplatz - Lichtenberg - Friedrichsfelde Ost - Biesdorf - Wuhletal - Kaulsdorf - Mahlsdorf - Birkenstein - Hoppegarten - Neuenhagen - Fredersdorf - Petershagen Nord - Strausberg - Hegermühle - Strausberg Stadt - Strausberg Nord"
   },
   {
     "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
+    "Region": "Berlin-Brandenburg",
     "Type": "Banlieue (S-Bahn)",
     "Ligne": "S7",
-    "Depart": "Ahrensfelde",
-    "Terminus": "Potsdam Hauptbahnhof",
-    "Materiel": "Automotrices Br 481 - Ligne touristique/Spotteur majeure (Stadtbahn)"
+    "Depart": "Potsdam Hbf",
+    "Terminus": "Ahrensfelde",
+    "Gares_Desservies": "Potsdam Hbf - Babelsberg - Griebnitzsee - Wannsee - Nikolassee - Grunewald - Westkreuz - Charlottenburg - Savignyplatz - Zoologischer Garten - Tiergarten - Bellevue - Hauptbahnhof - Friedrichstraße - Hackescher Markt - Alexanderplatz - Jannowitzbrücke - Ostbahnhof - Warschauer Straße - Ostkreuz - Nöldnerplatz - Lichtenberg - Friedrichsfelde Ost - Springpfuhl - Poelchaustraße - Marzahn - Raoul-Wallenberg-Straße - Mehrower Allee - Ahrensfelde"
   },
   {
     "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
+    "Region": "Berlin-Brandenburg",
     "Type": "Banlieue (S-Bahn)",
-    "Ligne": "S75",
-    "Depart": "Wartenberg",
-    "Terminus": "Warschauer Straße",
-    "Materiel": "Automotrices Br 481"
+    "Ligne": "S41 (Ringbahn)",
+    "Depart": "Ligne Circulaire (Horaire)",
+    "Terminus": "Ligne Circulaire (Horaire)",
+    "Gares_Desservies": "Gesundbrunnen - Schönhauser Allee - Prenzlauer Allee - Greifswalder Straße - Landsberger Allee - Storkower Straße - Ostkreuz - Treptower Park - Sonnenallee - Neukölln - Hermannstraße - Tempelhof - Südkreuz - Schöneberg - Innsbrucker Platz - Bundesplatz - Heidelberger Platz - Hohenzollerndamm - Halensee - Westkreuz - Messe Nord/ICC - Westend - Jungfernheide - Beusselstraße - Westhafen - Wedding - Gesundbrunnen"
   },
   {
     "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
+    "Region": "Berlin-Brandenburg",
     "Type": "Banlieue (S-Bahn)",
-    "Ligne": "S41",
-    "Depart": "Ringbahn (Horaire)",
-    "Terminus": "Ligne Circulaire",
-    "Materiel": "Automotrices Br 481 / Br 483 / Br 484 - Ceinture de Berlin"
+    "Ligne": "S42 (Ringbahn)",
+    "Depart": "Ligne Circulaire (Anti-horaire)",
+    "Terminus": "Ligne Circulaire (Anti-horaire)",
+    "Gares_Desservies": "Gesundbrunnen - Wedding - Westhafen - Beusselstraße - Jungfernheide - Westend - Messe Nord/ICC - Westkreuz - Halensee - Hohenzollerndamm - Heidelberger Platz - Bundesplatz - Innsbrucker Platz - Schöneberg - Südkreuz - Tempelhof - Hermannstraße - Neukölln - Sonnenallee - Treptower Park - Ostkreuz - Storkower Straße - Landsberger Allee - Greifswalder Straße - Prenzlauer Allee - Schönhauser Allee - Gesundbrunnen"
   },
   {
     "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
-    "Type": "Banlieue (S-Bahn)",
-    "Ligne": "S42",
-    "Depart": "Ringbahn (Anti-horaire)",
-    "Terminus": "Ligne Circulaire",
-    "Materiel": "Automotrices Br 481 / Br 483 / Br 484"
-  },
-  {
-    "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
-    "Type": "Banlieue (S-Bahn)",
-    "Ligne": "S45",
-    "Depart": "Aéroport BER",
-    "Terminus": "Südkreuz",
-    "Materiel": "Automotrices Br 481"
-  },
-  {
-    "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
-    "Type": "Banlieue (S-Bahn)",
-    "Ligne": "S46",
-    "Depart": "Königs Wusterhausen",
-    "Terminus": "Westend",
-    "Materiel": "Automotrices Br 481"
-  },
-  {
-    "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
-    "Type": "Banlieue (S-Bahn)",
-    "Ligne": "S47",
-    "Depart": "Spindlersfeld",
-    "Terminus": "Hermannstraße",
-    "Materiel": "Automotrices Br 481"
-  },
-  {
-    "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
-    "Type": "Banlieue (S-Bahn)",
-    "Ligne": "S8",
-    "Depart": "Wildau",
-    "Terminus": "Birkenwerder",
-    "Materiel": "Automotrices Br 481"
-  },
-  {
-    "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
-    "Type": "Banlieue (S-Bahn)",
-    "Ligne": "S85",
-    "Depart": "Grünau",
-    "Terminus": "Pankow",
-    "Materiel": "Automotrices Br 481"
-  },
-  {
-    "Pays": "Allemagne",
-    "Region": "Berlin-Brandebourg",
+    "Region": "Berlin-Brandenburg",
     "Type": "Banlieue (S-Bahn)",
     "Ligne": "S9",
-    "Depart": "Aéroport BER",
-    "Terminus": "Spandau",
-    "Materiel": "Automotrices Br 483 / Br 484 / Br 481 - Traverse tout le centre via la Stadtbahn"
+    "Depart": "Spandau",
+    "Terminus": "Aéroport BER",
+    "Gares_Desservies": "Spandau - Stresow - Pichelsberg - Olympiastadion - Heerstraße - Messe Süd - Westkreuz - Charlottenburg - Savignyplatz - Zoologischer Garten - Tiergarten - Bellevue - Hauptbahnhof - Friedrichstraße - Hackescher Markt - Alexanderplatz - Jannowitzbrücke - Ostbahnhof - Warschauer Straße - Ostkreuz - Treptower Park - Plänterwald - Baumschulenweg - Schöneweide - Betriebsbahnhof Schöneweide - Adlershof - Altglienicke - Grünbergallee - Aéroport BER"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandenburg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U1",
+    "Depart": "Uhlandstraße",
+    "Terminus": "Warschauer Straße",
+    "Gares_Desservies": "Uhlandstraße - Kurfürstendamm - Wittenbergplatz - Nollendorfplatz - Kurfürstenstraße - Gleisdreieck - Möckernbrücke - Hallesches Tor - Prinzenstraße - Kottbusser Tor - Görlitzer Bahnhof - Schlesisches Tor - Warschauer Straße"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandenburg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U2",
+    "Depart": "Pankow",
+    "Terminus": "Ruhleben",
+    "Gares_Desservies": "Pankow - Vinetastraße - Schönhauser Allee - Eberswalder Straße - Senefelderplatz - Rosa-Luxemburg-Platz - Alexanderplatz - Klosterstraße - Märkisches Museum - Spittelmarkt - Hausvogteiplatz - Stadtmitte - Mohrenstraße - Potsdamer Platz - Mendelssohn-Bartholdy-Park - Gleisdreieck - Bülowstraße - Nollendorfplatz - Wittenbergplatz - Zoologischer Garten - Ernst-Reuter-Platz - Deutsche Oper - Bismarckstraße - Sophie-Charlotte-Platz - Kaiserdamm - Theodor-Heuss-Platz - Neu-Westend - Olympia-Stadion - Ruhleben"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandenburg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U3",
+    "Depart": "Krumme Lanke",
+    "Terminus": "Warschauer Straße",
+      {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandenburg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U3",
+    "Depart": "Krumme Lanke",
+    "Terminus": "Warschauer Straße",
+    "Gares_Desservies": "Krumme Lanke - Onkel Toms Hütte - Freie Universität (Thielplatz) - Dahlem-Dorf - Podbielskiallee - Breitenbachplatz - Rüdesheimer Platz - Heidelberger Platz - Fehrbelliner Platz - Hohenzollernplatz - Spichernstraße - Augsburger Straße - Wittenbergplatz - Nollendorfplatz - Kurfürstenstraße - Gleisdreieck - Möckernbrücke - Hallesches Tor - Prinzenstraße - Kottbusser Tor - Görlitzer Bahnhof - Schlesisches Tor - Warschauer Straße"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandenburg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U4",
+    "Depart": "Nollendorfplatz",
+    "Terminus": "Innsbrucker Platz",
+    "Gares_Desservies": "Nollendorfplatz - Viktoria-Luise-Platz - Bayerischer Platz - Rathaus Schöneberg - Innsbrucker Platz"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandenburg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U5",
+    "Depart": "Hauptbahnhof",
+    "Terminus": "Hönow",
+    "Gares_Desservies": "Hauptbahnhof - Bundestag - Brandenburger Tor - Unter den Linden - Museumsinsel - Rotes Rathaus - Alexanderplatz - Schillingstraße - Strausberger Platz - Weberwiese - Frankfurter Tor - Samariterstraße - Frankfurter Allee - Magdalenenstraße - Lichtenberg - Friedrichsfelde - Tierpark - Biesdorf-Süd - Elsterwerdaer Platz - Wuhletal - Kaulsdorf-Nord - Kienberg (Gärten der Welt) - Cottbusser Platz - Hellersdorf - Louis-Lewin-Straße - Hönow"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandenburg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U6",
+    "Depart": "Alt-Tegel",
+    "Terminus": "Alt-Mariendorf",
+    "Gares_Desservies": "Alt-Tegel - Borsigwerke - Holzhauser Straße - Otisstraße - Scharnweberstraße - Kurt-Schumacher-Platz - Afrikanische Straße - Rehberge - Seestraße - Leopoldplatz - Wedding - Reinickendorfer Straße - Schwartzkopffstraße - Naturkundemuseum - Oranienburger Tor - Friedrichstraße - Unter den Linden - Stadtmitte - Kochstraße - Hallesches Tor - Mehringdamm - Platz der Luftbrücke - Paradestraße - Tempelhof - Alt-Tempelhof - Kaiserin-Augusta-Straße - Ullsteinstraße - Westphalweg - Alt-Mariendorf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandenburg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U7",
+    "Depart": "Rathaus Spandau",
+    "Terminus": "Rudow",
+    "Gares_Desservies": "Rathaus Spandau - Altstadt Spandau - Zitadelle - Haselhorst - Paulsternstraße - Rohrdamm - Siemensdamm - Halemweg - Jakob-Kaiser-Platz - Jungfernheide - Mierendorffplatz - Richard-Wagner-Platz - Bismarckstraße - Wilmersdorfer Straße - Adenauerplatz - Konstanzer Straße - Fehrbelliner Platz - Blissestraße - Berliner Straße - Bayerischer Platz - Eisenacher Straße - Kleistpark - Yorckstraße - Möckernbrücke - Mehringdamm - Gneisenaustraße - Südstern - Hermannplatz - Rathaus Neukölln - Karl-Marx-Straße - Neukölln - Grenzallee - Blaschkoallee - Parchimer Allee - Britz-Süd - Johannisthaler Chaussee - Lipschitzallee - Südominant - Zwickauer Damm - Rudow"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandenburg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U8",
+    "Depart": "Wittenau",
+    "Terminus": "Hermannstraße",
+    "Gares_Desservies": "Wittenau - Rathaus Reinickendorf - Karl-Bonhoeffer-Nervenklinik - Lindauer Allee - Paracelsus-Bad - Residenzstraße - Franz-Neumann-Platz - Osloer Straße - Pankstraße - Gesundbrunnen - Voltastraße - Bernauer Straße - Rosenthaler Platz - Weinmeisterstraße - Alexanderplatz - Jannowitzbrücke - Heinrich-Heine-Straße - Moritzplatz - Kottbusser Tor - Schönleinstraße - Hermannplatz - Boddinstraße - Leinestraße - Hermannstraße"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandenburg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U9",
+    "Depart": "Rathaus Steglitz",
+    "Terminus": "Osloer Straße",
+    "Gares_Desservies": "Rathaus Steglitz - Schloßstraße - Walther-Schreiber-Platz - Friedrich-Wilhelm-Platz - Bundesplatz - Berliner Straße - Güntzelstraße - Spichernstraße - Kurfürstendamm - Zoologischer Garten - Turmstraße - Birkenstraße - Westhafen - Amrumer Straße - Leopoldplatz - Nauener Platz - Osloer Straße"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Berlin-Brandenburg",
+    "Type": "Tramway",
+    "Ligne": "Tram M10 (MetroTram)",
+    "Depart": "Moabit (Turmstraße)",
+    "Terminus": "S+U Warschauer Straße",
+    "Gares_Desservies": "Turmstraße - Hauptbahnhof - S Nordbahnhof - U Rosenthaler Platz - U Eberswalder Straße - Prenzlauer Allee/Danziger Str. - Landsberger Allee/Danziger Str. - S+U Frankfurter Allee - S+U Warschauer Straße"
   }
 ]
 
