@@ -1,0 +1,83 @@
+[
+  {
+    "Pays": "Allemagne",
+    "Region": "Mecklembourg-Poméranie-Occidentale",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 1 (Hanse-Express)",
+    "Depart": "Hamburg Hbf (Hambourg)",
+    "Terminus": "Rostock Hbf",
+    "Gares_Desservies": "Hamburg Hbf - Hamburg-Bergedorf - Schwarzenbek - Müssen - Büchen - Schwanheide - Boizenburg(Elbe) - Brahlstorf - Pritzier - Hagenow Land - Schwerin Süd - Schwerin Mitte - Schwerin Hbf - Bad Kleinen - Ventschow - Blankenberg(Meckl) - Bützow - Schwaan - Rostock Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Mecklembourg-Poméranie-Occidentale",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 3",
+    "Depart": "Stralsund Hbf / Schwedt(Oder)",
+    "Terminus": "Lutherstadt Wittenberg Hbf / Falkenberg (Elster)",
+    "Gares_Desservies": "Stralsund Hbf - Miltzow - Greifswald - Greifswald Süd - Anklam - Ducherow - Ferdinandshof - Jatznick - Pasewalk - Nechlin - Pasewalk Ost - Szczecin (Pologne) / Angermünde - Berlin Hbf - Berlin Südkreuz - Ludwigsfelde - Jüterbog"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Mecklembourg-Poméranie-Occidentale",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 4",
+    "Depart": "Lübeck Hbf (Schleswig-Holstein)",
+    "Terminus": "Pasewalk / Szczecin (Pologne)",
+    "Gares_Desservies": "Lübeck Hbf - Lübeck St Jürgen - Herrnburg - Schönberg(Meckl) - Gadebusch - Rehna / Bad Kleinen - Bützow - Güstrow - Lalendorf - Malchin - Stavenhagen - Neubrandenburg - Sponholz - Strasburg(Uckerm) - Pasewalk - Pasewalk Ost - Szczecin Główny"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Mecklembourg-Poméranie-Occidentale",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 5",
+    "Depart": "Rostock Hbf / Stralsund Hbf",
+    "Terminus": "Berlin Südkreuz / Elsterwerda",
+    "Gares_Desservies": "Rostock Hbf - Güstrow - Waren(Müritz) - Neustrelitz Hbf / Stralsund Hbf - Demmin - Neubrandenburg - Neustrelitz Hbf - Fürstenberg(Havel) - Gransee - Oranienburg - Berlin-Gesundbrunnen - Berlin Hbf - Berlin Potsdamer Platz - Berlin Südkreuz"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Mecklembourg-Poméranie-Occidentale",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 11",
+    "Depart": "Wismar",
+    "Terminus": "Tessin",
+    "Gares_Desservies": "Wismar - Hornstorf - Kalsow - Hagebök - Neubukow - Sandhagen(b Bad Dob) - Bad Doberan - Althof - Parkentin - Groß Schwaß - Rostock Thierfelder Str. - Rostock Hbf - Roggentin - Broderstorf - Sanitz(b Rostock) - Groß Lüsewitz - Teutendorf - Tessin"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Mecklembourg-Poméranie-Occidentale",
+    "Type": "Banlieue (S-Bahn de Rostock)",
+    "Ligne": "S1",
+    "Depart": "Rostock Hbf",
+    "Terminus": "Warnemünde",
+    "Gares_Desservies": "Rostock Hbf - Rostock Thierfelder Str. - Rostock Holbeinplatz - Rostock Parkstraße - Rostock-Bramow - Rostock-Marienehe - Rostock-Evershagen - Rostock-Lütten Klein - Rostock-Lichtenhagen - Rostock-Warnemünde Werft - Warnemünde (Ligne côtière majeure pour les stations balnéaires)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Mecklembourg-Poméranie-Occidentale",
+    "Type": "Banlieue (S-Bahn de Rostock)",
+    "Ligne": "S2",
+    "Depart": "Warnemünde",
+    "Terminus": "Güstrow",
+    "Gares_Desservies": "Warnemünde - Warnemünde Werft - Rostock-Lichtenhagen - Rostock-Lütten Klein - Rostock-Evershagen - Rostock-Marienehe - Rostock-Bramow - Rostock Parkstraße - Rostock Holbeinplatz - Rostock Thierfelder Str. - Rostock Hbf - Schwaan - Huckstorf - Pölchow - Mierendorf - Güstrow"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Mecklembourg-Poméranie-Occidentale",
+    "Type": "Banlieue (S-Bahn de Rostock)",
+    "Ligne": "S3",
+    "Depart": "Warnemünde",
+    "Terminus": "Güstrow (Via Laage)",
+    "Gares_Desservies": "Warnemünde - Rostock Hbf - Kavelstorf - Scharstorf - Kronskamp - Laage(Meckl) - Subzin-Liessow - Plaaz - Priemerburg - Güstrow"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Mecklembourg-Poméranie-Occidentale",
+    "Type": "Train à voie étroite historique",
+    "Ligne": "Bäderbahn Molli (RB 31)",
+    "Depart": "Bad Doberan",
+    "Terminus": "Kühlungsborn West",
+    "Gares_Desservies": "Bad Doberan - Bad Doberan Goethestraße - Bad Doberan Rennbahn - Heiligendamm - Kühlungsborn Ost - Kühlungsborn Mitte - Kühlungsborn West (Voie étroite de 900 mm traversant la rue principale en ville, locomotive à vapeur)"
+  }
+]
