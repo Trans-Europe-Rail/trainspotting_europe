@@ -1,0 +1,83 @@
+[
+  {
+    "Pays": "Allemagne",
+    "Region": "Thuringe",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 1 (Saxe-Thuringe)",
+    "Depart": "Göttingen (Basse-Saxe)",
+    "Terminus": "Glan-Münchweiler / Zwickau Hbf (Saxe)",
+    "Gares_Desservies": "Göttingen - Leinefelde - Mühlhausen(Thür) - Bad Langensalza - Gotha - Neudietendorf - Erfurt Hbf - Weimar - Jena West - Neue Schenke - Stadtroda - Hermsdorf-Klosterlausnitz - Gera Hbf - Ronneburg(Thür) - Schmölln(Thür) - Gößnitz - Zwickau Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Thuringe",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 3",
+    "Depart": "Erfurt Hbf",
+    "Terminus": "Altenburg / Greiz",
+    "Gares_Desservies": "Erfurt Hbf - Weimar - Jena West - Stadtroda - Hermsdorf-Klosterlausnitz - Gera Hbf - Gera Süd - Gera-Zwötzen - Wünschendorf(Elster) - Berga(Elster) - Neumühle(Elster) - Greiz / Altenburg"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Thuringe",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 7 (Mainfranken-Thüringen-Express)",
+    "Depart": "Erfurt Hbf",
+    "Terminus": "Würzburg Hbf (Bavière)",
+    "Gares_Desservies": "Erfurt Hbf - Neudietendorf - Arnstadt Hbf - Plaue(Thür) - Gräfenroda - Zella-Mehlis - Suhl - Grimmenthal - Mellrichstadt Bf - Bad Neustadt(Saale) - Bad Kissingen - Schweinfurt Hbf - Würzburg Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Thuringe",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 10",
+    "Depart": "Magdeburg Hbf (Saxe-Anhalt)",
+    "Terminus": "Erfurt Hbf",
+    "Gares_Desservies": "Magdeburg Hbf - Schönebeck(Elbe) - Güsten - Sandersleben(Anh) - Hettstedt - Sangerhausen - Oberröblingen - Voigtstedt - Artern - Reinsdorf(Artern) - Heldrungen - Etzleben - Griefstedt - Leubingen - Sömmerda - Großrudestedt - Stotternheim - Erfurt Ost - Erfurt Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Thuringe",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 20",
+    "Depart": "Eisenach",
+    "Terminus": "Leipzig Hbf (Saxe)",
+    "Gares_Desservies": "Eisenach - Wutha - Schönau(Hörsel) - Fröttstädt - Mechterstädt - Sättelstädt - Gotha - Wandersleben - Neudietendorf - Erfurt Hbf - Vieselbach - Hopfgarten(Weimar) - Weimar - Oßmannstedt - Apolda - Sulza(Saale) - Bad Sulza - Großheringen - Bad Kösen - Naumburg(Saale)Hbf - Weißenfels - Merseburg Hbf - Leipzig Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Thuringe",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 44 (Süd-Thüringen-Bahn)",
+    "Depart": "Erfurt Hbf",
+    "Terminus": "Meiningen",
+    "Gares_Desservies": "Erfurt Hbf - Neudietendorf - Arnstadt Hbf - Arnstadt Süd - Plaue(Thür) - Gräfenroda - Dörrberg - Gehlberg - Zella-Mehlis - Suhl - Suhl-Heinrichs - Dietzhausen - Rohr(Thür) - Grimmenthal - Meiningen"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Thuringe",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 52 (Erfurter Bahn)",
+    "Depart": "Erfurt Hbf",
+    "Terminus": "Leinefelde",
+    "Gares_Desservies": "Erfurt Hbf - Erfurt Nord - Kühnhausen - Elxleben - Walschleben - Ringleben-Gebesee - Straußfurt - Greußen - Clingen - Wasserthaleben - Großenehrich - Kleinfurra - Sondershausen - Glückauf - Hohenebra Ort - Bodenrode - Heilbad Heiligenstadt - Leinefelde"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Thuringe",
+    "Type": "Tramway",
+    "Ligne": "Tram 3 (Erfurt)",
+    "Depart": "Europaplatz",
+    "Terminus": "Urbicher Kreuz",
+    "Gares_Desservies": "Europaplatz - Rieth - Juri-Gagarin-Ring - Domplatz - Fischmarkt - Anger - Hauptbahnhof - Tschaikowskistraße - Windthorststraße - Herrenberg - Urbicher Kreuz"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Thuringe",
+    "Type": "Tramway",
+    "Ligne": "Tram 5 (Jena)",
+    "Depart": "Ernst-Abbe-Platz",
+    "Terminus": "Lobeda-Ost",
+    "Gares_Desservies": "Ernst-Abbe-Platz - Holzmarkt - Paradiesbahnhof (Gare) - Ringwiese - Winzerla - Lobeda - Lobeda-Ost (Axe urbain majeur reliant la gare centrale)"
+  }
+]
