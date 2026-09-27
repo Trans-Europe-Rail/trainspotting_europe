@@ -1,0 +1,234 @@
+[
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 2",
+    "Depart": "Koblenz Hbf",
+    "Terminus": "Frankfurt(Main)Hbf",
+    "Gares_Desservies": "Koblenz Hbf - Boppard Hbf - Oberwesel - Bingen(Rhein) Hbf - Mainz Hbf - Frankfurt(M) Flughafen Regionalbf - Frankfurt(Main)Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 9",
+    "Depart": "Eltville",
+    "Terminus": "Frankfurt(Main)Hbf",
+    "Gares_Desservies": "Eltville - Niederwalluf - Wiesbaden-Schierstein - Wiesbaden-Biebrich - Mainz-Kastel - Frankfurt-Höchst - Frankfurt(Main)Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 50",
+    "Depart": "Fulda",
+    "Terminus": "Frankfurt(Main)Hbf",
+    "Gares_Desservies": "Fulda - Neuhof(Kr Fulda) - Flieden - Schlüchtern - Steinau(Straße) - Bad Soden-Salmünster - Wächtersbach - Gelnhausen - Langenselbold - Hanau Hbf - Offenbach(Main)Hbf - Frankfurt(Main)Süd - Frankfurt(Main)Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 60",
+    "Depart": "Frankfurt(Main)Hbf",
+    "Terminus": "Mannheim Hbf",
+    "Gares_Desservies": "Frankfurt(Main)Hbf - Darmstadt Hbf - Bickenbach(Bergstr) - Zwingenberg(Bergstr) - Bensheim - Heppenheim(Bergstr) - Hemsbach - Weinheim(Bergstr)Hbf - Ladenburg - Neu-Edingen/Friedrichsfeld - Mannheim Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 10 (RheingauLinie)",
+    "Depart": "Neuwied",
+    "Terminus": "Frankfurt(Main)Hbf",
+    "Gares_Desservies": "Neuwied - Koblenz Stadtmitte - Koblenz Hbf - Niederlahnstein - Braubach - Osterspai - Kaub - Lorch(Rhein) - Assmannshausen - Rüdesheim(Rhein) - Geisenheim - Oestrich-Winkel - Hattenheim - Erbach(Rheingau) - Eltville - Niederwalluf - Wiesbaden-Schierstein - Wiesbaden-Biebrich - Mainz-Kastel - Frankfurt-Höchst - Frankfurt(Main)Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 51",
+    "Depart": "Wächtersbach",
+    "Terminus": "Frankfurt(Main)Hbf",
+    "Gares_Desservies": "Wächtersbach - Wirtheim - Gelnhausen - Hailer-Meerholz - Niedermittlau - Langenselbold - Rodenbach(b Hanau) - Hanau Hbf - Offenbach(Main)Hbf - Frankfurt(Main)Süd - Frankfurt(Main)Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S1",
+    "Depart": "Wiesbaden Hbf",
+    "Terminus": "Rödermark-Ober Roden",
+    "Gares_Desservies": "Wiesbaden Hbf - Wiesbaden Ost - Mainz-Kastel - Hochheim(Main) - Flörsheim(Main) - Eddersheim - Hattersheim(Main) - Frankfurt-Sindlingen - Frankfurt-Höchst Farbwerke - Frankfurt-Höchst - Frankfurt-Nied - Frankfurt-Griesheim - Frankfurt(Main)Hbf - Frankfurt(Main)Taunusanlage - Frankfurt(Main)Hauptwache - Frankfurt(Main)Konstablerwache - Frankfurt(Main)Ostendstraße - Frankfurt(Main)Mühlberg - Offenbach-Kaiserlei - Offenbach-Ledermuseum - Offenbach-Marktplatz - Offenbach(Main)Ost - Offenbach-Bieber - Offenbach-Waldhof - Obertshausen(Kr Offenb) - Weiskirchen(Kr Offenb) - Seligenstadt(Hess) - Mainhausen Zellhausen - Babenhausen(Hess) - Hergershausen - Altheim(Hess) - Dieburg - Münster(b Dieburg) - Rödermark-Ober Roden"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S2",
+    "Depart": "Niedernhausen(Taunus)",
+    "Terminus": "Dietzenbach Bahnhof",
+    "Gares_Desservies": "Niedernhausen(Taunus) - Niederjosbach - Bremthal - Eppstein - Eppstein-Bremthal - Lorsbach - Hofheim(Taunus) - Kriftel - Frankfurt-Zeilsheim - Frankfurt-Höchst Farbwerke - Frankfurt-Höchst - Frankfurt-Nied - Frankfurt-Griesheim - Frankfurt(Main)Hbf - Frankfurt(Main)Taunusanlage - Frankfurt(Main)Hauptwache - Frankfurt(Main)Konstablerwache - Frankfurt(Main)Ostendstraße - Frankfurt(Main)Mühlberg - Offenbach-Kaiserlei - Offenbach-Ledermuseum - Offenbach-Marktplatz - Offenbach(Main)Ost - Offenbach-Bieber - Dietzenbach-Steinberg - Dietzenbach Mitte - Dietzenbach Bahnhof"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S3",
+    "Depart": "Bad Soden(Taunus)",
+    "Terminus": "Darmstadt Hbf",
+    "Gares_Desservies": "Bad Soden(Taunus) - Sulzbach(Taunus)Nord - Schwalbach(Taunus)Nord - Schwalbach(Taunus)Limes - Niederhöchstadt - Eschborn - Eschborn Süd - Frankfurt-Rödelheim - Frankfurt(Main)West - Frankfurt(Main)Messe - Frankfurt(Main)Galluswarte - Frankfurt(Main)Hbf - Frankfurt(Main)Taunusanlage - Frankfurt(Main)Hauptwache - Frankfurt(Main)Konstablerwache - Frankfurt(Main)Ostendstraße - Frankfurt(Main)Lokalbahnhof - Frankfurt(Main)Süd - Frankfurt-Stresemannallee - Frankfurt-Louisa - Neu-Isenburg - Dreieich-Buchschlag - Langen(Hess) - Egelsbach - Erzhausen - Darmstadt-Wixhausen - Darmstadt-Arheilgen - Darmstadt Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S4",
+    "Depart": "Kronberg(Taunus)",
+    "Terminus": "Langen(Hess)",
+    "Gares_Desservies": "Kronberg(Taunus) - Kronberg Süd - Niederhöchstadt - Eschborn - Eschborn Süd - Frankfurt-Rödelheim - Frankfurt(Main)West - Frankfurt(Main)Messe - Frankfurt(Main)Galluswarte - Frankfurt(Main)Hbf - Frankfurt(Main)Taunusanlage - Frankfurt(Main)Hauptwache - Frankfurt(Main)Konstablerwache - Frankfurt(Main)Ostendstraße - Frankfurt(Main)Lokalbahnhof - Frankfurt(Main)Süd - Frankfurt-Stresemannallee - Frankfurt-Louisa - Neu-Isenburg - Dreieich-Buchschlag - Langen(Hess)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S5",
+    "Depart": "Friedrichsdorf(Taunus)",
+    "Terminus": "Frankfurt(Main)Süd",
+    "Gares_Desservies": "Friedrichsdorf(Taunus) - Seulberg - Bad Homburg - Oberursel(Taunus) - Oberursel-Stierstadt - Oberursel-Weißkirchen/Steinbach - Frankfurt-Rödelheim - Frankfurt(Main)West - Frankfurt(Main)Messe - Frankfurt(Main)Galluswarte - Frankfurt(Main)Hbf - Frankfurt(Main)Taunusanlage - Frankfurt(Main)Hauptwache - Frankfurt(Main)Konstablerwache - Frankfurt(Main)Ostendstraße - Frankfurt(Main)Lokalbahnhof - Frankfurt(Main)Süd"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S6",
+    "Depart": "Friedberg(Hess)",
+    "Terminus": "Frankfurt(Main)Süd",
+    "Gares_Desservies": "Friedberg(Hess) - Bruchenbrücken - Nieder-Wöllstadt - Okarben - Groß Karben - Dortelweil - Bad Vilbel - Bad Vilbel Süd - Frankfurt-Berkersheim - Frankfurt-Frankfurter Berg - Frankfurt-Eschersheim - Frankfurt(Main)West - Frankfurt(Main)Messe - Frankfurt(Main)Galluswarte - Frankfurt(Main)Hbf - Frankfurt(Main)Taunusanlage - Frankfurt(Main)Hauptwache - Frankfurt(Main)Konstablerwache - Frankfurt(Main)Ostendstraße - Frankfurt(Main)Lokalbahnhof - Frankfurt(Main)Süd"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S7",
+    "Depart": "Riedstadt-Goddelau",
+    "Terminus": "Frankfurt(Main)Hbf",
+    "Gares_Desservies": "Riedstadt-Goddelau - Riedstadt-Wolfskehlen - Groß Gerau-Dornheim - Groß Gerau-Dornberg - Mörfelden - Walldorf(Hess) - Zeppelinheim - Frankfurt am Main - Stadion - Frankfurt-Niederrad - Frankfurt(Main)Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S8",
+    "Depart": "Wiesbaden Hbf",
+    "Terminus": "Hanau Hbf",
+    "Gares_Desservies": "Wiesbaden Hbf - Wiesbaden Ost - Mainz Nord - Mainz Hbf - Mainz-Gustavsburg - Mainz-Bischofsheim - Rüsselsheim Opelwerk - Rüsselsheim - Raunheim - Kelsterbach - Frankfurt(M) Flughafen Regionalbf - Frankfurt-Niederrad - Frankfurt(Main)Hbf - Frankfurt(Main)Taunusanlage - Frankfurt(Main)Hauptwache - Frankfurt(Main)Konstablerwache - Frankfurt(Main)Ostendstraße - Frankfurt(Main)Mühlberg - Offenbach-Kaiserlei - Offenbach-Ledermuseum - Offenbach-Marktplatz - Offenbach(Main)Ost - Mühlheim(Main) - Mühlheim(Main)Dietesheim - Hanau-Steinheim - Hanau Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S9",
+    "Depart": "Wiesbaden Hbf",
+    "Terminus": "Hanau Hbf",
+    "Gares_Desservies": "Wiesbaden Hbf - Wiesbaden Ost - Mainz-Kastel - Mainz-Bischofsheim - Rüsselsheim Opelwerk - Rüsselsheim - Raunheim - Kelsterbach - Frankfurt(M) Flughafen Regionalbf - Frankfurt-Niederrad - Frankfurt(Main)Hbf - Frankfurt(Main)Taunusanlage - Frankfurt(Main)Hauptwache - Frankfurt(Main)Konstablerwache - Frankfurt(Main)Ostendstraße - Frankfurt(Main)Mühlberg - Offenbach-Kaiserlei - Offenbach-Ledermuseum - Offenbach-Marktplatz - Offenbach(Main)Ost - Mühlheim(Main) - Mühlheim(Main)Dietesheim - Hanau-Steinheim - Hanau Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Métro (U-Bahn Francfort)",
+    "Ligne": "U1",
+    "Depart": "Ginnheim",
+    "Terminus": "Südbahnhof",
+    "Gares_Desservies": "Ginnheim - Niddapark - Römerstadt - Nordwestzentrum - Heddernheim - Zeilweg - Heddernheimer Landstraße - Nordwestzentrum - Hauptwache - Willy-Brandt-Platz - Schweizer Platz - Südbahnhof"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Métro (U-Bahn Francfort)",
+    "Ligne": "U2",
+    "Depart": "Bad Homburg-Gonzenheim",
+    "Terminus": "Südbahnhof",
+    "Gares_Desservies": "Gonzenheim - Ober-Eschbach - Nieder-Eschbach - Bonames Mitte - Kalbach - Riedberg - Sandelmühle - Heddernheim - Fritz-Tarnow-Straße - Hügelstraße - Lindenbaum - Weißer Stein - Miquel-/Adickesallee - Holzhausenstraße - Grüneburgweg - Eschenheimer Tor - Hauptwache - Willy-Brandt-Platz - Schweizer Platz - Südbahnhof"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Métro (U-Bahn Francfort)",
+    "Ligne": "U3",
+    "Depart": "Oberursel-Hohemark",
+    "Terminus": "Südbahnhof",
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Métro (U-Bahn Francfort)",
+    "Ligne": "U3",
+    "Depart": "Oberursel-Hohemark",
+    "Terminus": "Südbahnhof",
+    "Gares_Desservies": "Hohemark - Waldlust - Oberursel Stadtmitte - Oberursel Bahnhof - Weißkirchen Ost - Niederursel - Wiesenau - Heddernheim - Hauptwache - Willy-Brandt-Platz - Südbahnhof"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Métro (U-Bahn Francfort)",
+    "Ligne": "U4",
+    "Depart": "Bockenheimer Warte",
+    "Terminus": "Enkheim",
+    "Gares_Desservies": "Bockenheimer Warte - Festhalle/Messe - Hauptbahnhof - Willy-Brandt-Platz - Dom/Römer - Konstablerwache - Merianplatz - Höhenstraße - Bornheim Mitte - Seckbacher Landstraße - Schäfflestraße - Gwinnerstraße - Kruppstraße - Enkheim"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Métro (U-Bahn Francfort)",
+    "Ligne": "U5",
+    "Depart": "Preungesheim",
+    "Terminus": "Hauptbahnhof",
+    "Gares_Desservies": "Preungesheim - Ronneburgstraße - Sigmund-Freud-Straße - Marbachweg/Sozialzentrum - Giessener Straße - Theobald-Ziegler-Straße - Glauburgstraße - Musterschule - Konstablerwache - Dom/Römer - Willy-Brandt-Platz - Hauptbahnhof"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Métro (U-Bahn Francfort)",
+    "Ligne": "U6",
+    "Depart": "Praunheim Heerstraße",
+    "Terminus": "Ostbahnhof",
+    "Gares_Desservies": "Heerstraße - Ebelfeld - Fischstein - Industriehof - Kirchplatz - Leipziger Straße - Bockenheimer Warte - Westend - Alte Oper - Hauptwache - Konstablerwache - Zoo - Ostbahnhof"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Métro (U-Bahn Francfort)",
+    "Ligne": "U7",
+    "Depart": "Hausen",
+    "Terminus": "Enkheim",
+    "Gares_Desservies": "Hausen - Große Nelkenstraße - Industriehof - Kirchplatz - Leipziger Straße - Bockenheimer Warte - Westend - Alte Oper - Hauptwache - Konstablerwache - Zoo - Habsburgerallee - Parlamentsplatz - Eissporthalle/Festplatz - Johanna-Tesch-Platz - Schäfflestraße - Gwinnerstraße - Kruppstraße - Enkheim"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Métro (U-Bahn Francfort)",
+    "Ligne": "U8",
+    "Depart": "Riedberg",
+    "Terminus": "Südbahnhof",
+    "Gares_Desservies": "Riedberg - Uni-Campus Riedberg - Niederursel - Wiesenau - Heddernheim - Zeilweg - Hauptwache - Willy-Brandt-Platz - Südbahnhof"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Métro (U-Bahn Francfort)",
+    "Ligne": "U9",
+    "Depart": "Nieder-Eschbach",
+    "Terminus": "Ginnheim",
+    "Gares_Desservies": "Nieder-Eschbach - Bonames Mitte - Kalbach - Riedberg - Uni-Campus Riedberg - Niederursel - Wiesenau - Zeilweg - Heddernheimer Landstraße - Nordwestzentrum - Niddapark - Ginnheim"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hesse",
+    "Type": "Tramway",
+    "Ligne": "Tram 11",
+    "Depart": "Höchst Zuckschwerdtstraße",
+    "Terminus": "Fechenheim Schießhüttenstraße",
+    "Gares_Desservies": "Zuckschwerdtstraße - Bolongaropalast - Nied Kirche - Griesheim Bahnhof - Jägerallee - Galluspark - Hauptbahnhof - Willy-Brandt-Platz - Börneplatz - Ostendstraße - Riederwald - Fechenheim Schießhüttenstraße"
+  }
+]
