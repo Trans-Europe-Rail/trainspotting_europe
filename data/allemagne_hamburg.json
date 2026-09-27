@@ -1,0 +1,137 @@
+[
+  {
+    "Pays": "Allemagne",
+    "Region": "Hambourg",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 1 (Hanse-Express)",
+    "Depart": "Hamburg Hbf",
+    "Terminus": "Rostock Hbf (Mecklembourg-Vopoméranie)",
+    "Gares_Desservies": "Hamburg Hbf - Hamburg-Bergedorf - Schwarzenbek - Müssen - Büchen - Schwanheide - Boizenburg(Elbe) - Brahlstorf - Pritzier - Hagenow Land - Schwerin Hbf - Bad Kleinen - Bützow - Schwaan - Rostock Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hambourg",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 3",
+    "Depart": "Hamburg Hbf",
+    "Terminus": "Hannover Hbf (Basse-Saxe)",
+    "Gares_Desservies": "Hamburg Hbf - Hamburg-Harburg - Winsen(Luhe) - Lüneburg - Bienenbüttel - Bad Bevensen - Uelzen - Suderburg - Unterlüß - Eschede - Celle - Großburgwedel - Isernhagen - Langenhagen Mitte - Hannover Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hambourg",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 4",
+    "Depart": "Hamburg Hbf",
+    "Terminus": "Bremen Hbf",
+    "Gares_Desservies": "Hamburg Hbf - Hamburg-Harburg - Buchholz(Nordheide) - Tostedt - Lauenbrück - Scheeßel - Rotenburg(Wümme) - Sottrum - Ottersberg(Han) - Sagehorn - Bremen-Oberneuland - Bremen Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hambourg",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 5",
+    "Depart": "Hamburg Hbf",
+    "Terminus": "Cuxhaven (Basse-Saxe)",
+    "Gares_Desservies": "Hamburg Hbf - Hamburg-Harburg - Stade - Hammah - Himmelpforten - Hechthausen - Hemmoor - Wingst - Cadenberge - Otterndorf - Cuxhaven"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hambourg",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 7",
+    "Depart": "Hamburg Hbf",
+    "Terminus": "Flensburg / Kiel Hbf (Schleswig-Holstein)",
+    "Gares_Desservies": "Hamburg Hbf - Hamburg Dammtor - Elmshorn - Neumünster - Rendsburg - Schleswig - Flensburg / Kiel Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hambourg",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 61",
+    "Depart": "Hamburg Hbf",
+    "Terminus": "Itzehoe (Schleswig-Holstein)",
+    "Gares_Desservies": "Hamburg Hbf - Hamburg Dammtor - Pinneberg - Prisdorf - Tornesch - Elmshorn - Herzhorn - Glückstadt - Krempe - Kremperheide - Itzehoe"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hambourg",
+    "Type": "Ligne de banlieue privée (AKN)",
+    "Ligne": "Ligne A1 (AKN)",
+    "Depart": "Hamburg-Eidelstedt",
+    "Terminus": "Neumünster (Schleswig-Holstein)",
+    "Gares_Desservies": "Hamburg-Eidelstedt - Hamburg-Schnelsen - Burgwedel - Bönningstedt - Hasloh - Quickborn - Henstedt-Ulzburg - Kaltenkirchen - Bad Bramstedt - Neumünster"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hambourg",
+    "Type": "Banlieue (S-Bahn Hambourg)",
+    "Ligne": "S1",
+    "Depart": "Wedel",
+    "Terminus": "Airport / Poppenbüttel",
+    "Gares_Desservies": "Wedel - Rissen - Sülldorf - Iserbrook - Blankenese - Hochkamp - Klein Flottbek - Othmarschen - Bahrenfeld - Ottensen - Altona - Königstraße - Reeperbahn - Landungsbrücken - Stadthausbrücke - Jungfernstieg - Hauptbahnhof - Berliner Tor - Landwehr - Hasselbrook - Wandsbeker Chaussee - Friedrichsberg - Barmbek - Alte Wöhr - Rübenkamp - Ohlsdorf - Hamburg Airport / Poppenbüttel (Coupe des rames à Ohlsdorf)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hambourg",
+    "Type": "Banlieue (S-Bahn Hambourg)",
+    "Ligne": "S2",
+    "Depart": "Altona",
+    "Terminus": "Aumühle",
+    "Gares_Desservies": "Altona - Holstenstraße - Sternschanze - Dammtor - Hauptbahnhof - Berliner Tor - Rothenburgsort - Tiefstack - Billwerder-Moorfleet - Mittlerer Landweg - Allermöhe - Nettelnburg - Bergedorf - Reinbek - Wohltorf - Aumühle"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hambourg",
+    "Type": "Banlieue (S-Bahn Hambourg)",
+    "Ligne": "S3",
+    "Depart": "Pinneberg",
+    "Terminus": "Neugraben (↔ Stade)",
+    "Gares_Desservies": "Pinneberg - Thesdorf - Halstenbek - Krupunder - Elbgaustraße - Eidelstedt - Stellingen - Langenfelde - Diebsteich - Altona - Königstraße - Reeperbahn - Landungsbrücken - Stadthausbrücke - Jungfernstieg - Hauptbahnhof - Hammerbrook - Elbbrücken - Veddel - Wilhelmsburg - Harburg - Harburg Rathaus - Heimfeld - Neuwiedenthal - Neugraben"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hambourg",
+    "Type": "Banlieue (S-Bahn Hambourg)",
+    "Ligne": "S5",
+    "Depart": "Elbgaustraße",
+    "Terminus": "Stade (Basse-Saxe)",
+    "Gares_Desservies": "Elbgaustraße - Eidelstedt - Stellingen - Langenfelde - Diebsteich - Holstenstraße - Sternschanze - Dammtor - Hauptbahnhof - Hammerbrook - Elbbrücken - Veddel - Wilhelmsburg - Harburg - Harburg Rathaus - Heimfeld - Neuwiedenthal - Neugraben - Neu Wulmstorf - Buxtehude - Neukloster - Horneburg - Dollern - Agathenburg - Stade"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hambourg",
+    "Type": "Métro (U-Bahn Hambourg)",
+    "Ligne": "U1",
+    "Depart": "Norderstedt Mitte (Schleswig-Holstein)",
+    "Terminus": "Ohstedt / Grosshansdorf",
+    "Gares_Desservies": "Norderstedt Mitte - Richtweg - Garstedt - Ochsenzoll - Kiwittsmoor - Langenhorn Nord - Langenhorn Markt - Fuhlsbüttel Nord - Fuhlsbüttel - Klein Borstel - Ohlsdorf - Sengelmannstraße - Alsterdorf - Lattenkamp - Hudtwalckerstraße - Kellinghusenstraße - Klosterstern - Hallerstraße - Stephansplatz - Jungfernstieg - Meßberg - Steinstraße - Hauptbahnhof Süd - Lohmühlenstraße - Lübecker Straße - Wartenau - Ritterstraße - Wandsbeker Chaussee - Wandsbek Markt - Straßburger Straße - Alter Teichweg - Bellevue - Barmbek - Trabrennbahn - Wandsbek-Gartenstadt - Fuhlsbüttler Straße - Farmsen - Oldenfelde - Berne - Meiendorfer Weg - Volksdorf - Buckhorn - Hoisbüttel - Ohstedt / Buchenkamp - Ahrensburg West - Ahrensburg Ost - Schmalenbeck - Kiekut - Grosshansdorf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hambourg",
+    "Type": "Métro (U-Bahn Hambourg)",
+    "Ligne": "U2",
+    "Depart": "Niendorf Nord",
+    "Terminus": "Mümmelmannsberg",
+    "Gares_Desservies": "Niendorf Nord - Schippelsweg - Joachim-Mähl-Straße - Niendorf Markt - Hagendeel - Hagenbecks Tierpark - Lutterothstraße - Osterstraße - Emilienstraße - Christuskirche - Schlump - Messehallen - Gänsemarkt - Jungfernstieg - Hauptbahnhof Nord - Berliner Tor - Burgstraße - Hammer Kirche - Rauhes Haus - Horner Rennbahn - Legienstraße - Billstedt - Merkenstraße - Steinfurther Allee - Mümmelmannsberg"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hambourg",
+    "Type": "Métro (U-Bahn Hambourg)",
+    "Ligne": "U3",
+    "Depart": "Barmbek (Ligne circulaire)",
+    "Terminus": "Wandsbek-Gartenstadt",
+    "Gares_Desservies": "Barmbek - Saarlandstraße - Borgweg - Sierichstraße - Kellinghusenstraße - Eppendorfer Baum - Hoheluftbrücke - Schlump - Sternschanze - Feldstraße - St. Pauli - Landungsbrücken - Baumwall - Rödingsmarkt - Rathaus - Mönckebergstraße - Hauptbahnhof Süd - Berliner Tor - Lübecker Straße - Uhlandstraße - Mundsburg - Hamburger Straße - Dehnhafen - Barmbek - Habichtstraße - Wandsbek-Gartenstadt (Ligne mythique aérienne longeant les bassins du port)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Hambourg",
+    "Type": "Métro (U-Bahn Hambourg)",
+    "Ligne": "U4",
+    "Depart": "Elbbrücken",
+    "Terminus": "Billstedt",
+    "Gares_Desservies": "Elbbrücken - HafenCity Universität - Überseequartier - Jungfernstieg - Gänsemarkt - Messehallen - Schlump - Christuskirche - Emilienstraße - Osterstraße - Lutterothstraße - Hagenbecks Tierpark - Hagendeel - Niendorf Markt - Joachim-Mähl-Straße - Schippelsweg - Niendorf Nord / Horner Rennbahn - Legienstraße - Billstedt"
+  }
+]
