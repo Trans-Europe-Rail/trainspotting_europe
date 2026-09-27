@@ -1,0 +1,146 @@
+[
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 1 (Saxe-Thuringe)",
+    "Depart": "Göttingen",
+    "Terminus": "Glan-Münchweiler / Zwickau Hbf",
+    "Gares_Desservies": "Göttingen - Erfurt Hbf - Weimar - Jena West - Gera Hbf - Gößnitz - Crimmitschau - Werdau - Zwickau(Sachs)Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 3 (Mittelachsen)",
+    "Depart": "Dresden Hbf",
+    "Terminus": "Hof Hbf (Bavière)",
+    "Gares_Desservies": "Dresden Hbf - Freiberg(Sachs) - Chemnitz Hbf - Flöha - Zwickau(Sachs)Hbf - Reichenbach(Vogtl) ob Bf - Plauen(Vogtl) ob Bf - Hof Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 15",
+    "Depart": "Dresden Hbf",
+    "Terminus": "Hoyerswerda",
+    "Gares_Desservies": "Dresden Hbf - Dresden-Neustadt - Coswig(b Dresden) - Ruhland - Hosena - Hoyerswerda"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 18",
+    "Depart": "Dresden Hbf",
+    "Terminus": "Cottbus Hbf",
+    "Gares_Desservies": "Dresden Hbf - Dresden-Neustadt - Coswig(b Dresden) - Großenhain Cottb Bf - Ruhland - Senftenberg - Cottbus Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 20",
+    "Depart": "Dresden Hbf",
+    "Terminus": "Litoměřice město (Tchéquie)",
+    "Gares_Desservies": "Dresden Hbf - Heidenau - Pirna - Bad Schandau - Schöna - Děčín hl.n. - Ústí nad Labem západ - Litoměřice"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 50 (Saxonia)",
+    "Depart": "Leipzig Hbf",
+    "Terminus": "Dresden Hbf",
+    "Gares_Desservies": "Leipzig Hbf - Wurzen - Oschatz - Riesa - Priestewitz - Coswig(b Dresden) - Dresden-Neustadt - Dresden Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 30",
+    "Depart": "Dresden Hbf",
+    "Terminus": "Zwickau(Sachs)Hbf",
+    "Gares_Desservies": "Dresden Hbf - Tharandt - Klingenberg-Colmnitz - Freiberg(Sachs) - Flöha - Chemnitz Hbf - Hohenstein-Ernstthal - Glauchau(Sachs) - Zwickau(Sachs)Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 110",
+    "Depart": "Leipzig Hbf",
+    "Terminus": "Döbeln Hbf",
+    "Gares_Desservies": "Leipzig Hbf - Leipzig-Sellerhausen - Borsdorf(Sachs) - Grimma ob Bf - Leisnig - Döbeln Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe",
+    "Type": "Banlieue (S-Bahn Dresde)",
+    "Ligne": "S1",
+    "Depart": "Meißen Triebischtal",
+    "Terminus": "Schöna (Frontière Tchèque)",
+    "Gares_Desservies": "Meißen Triebischtal - Meißen - Coswig(b Dresden) - Radebeul Ost - Dresden-Trachau - Dresden-Pieschen - Dresden-Neustadt - Dresden Mitte - Dresden Hbf - Dresden-Strehlen - Dresden-Reick - Dresden-Dobritz - Dresden-Niedersedlitz - Dresden-Zschachwitz - Heidenau - Heidenau Süd - Heidenau-Großsedlitz - Pirna - Obervogelgesang - Stadt Wehlen(Sachs) - Kurort Rathen - Königstein(Sächs Schw) - Bad Schandau - Krippen - Schmilka-Hirschmühle - Schöna"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe",
+    "Type": "Banlieue (S-Bahn Dresde)",
+    "Ligne": "S2",
+    "Depart": "Dresden Flughafen (Aéroport)",
+    "Terminus": "Pirna",
+    "Gares_Desservies": "Dresden Flughafen - Dresden Grenzstraße - Dresden-Klotzsche - Dresden Industriegelände - Dresden-Neustadt - Dresden Mitte - Dresden Hbf - Dresden-Strehlen - Dresden-Reick - Dresden-Dobritz - Dresden-Niedersedlitz - Dresden-Zschachwitz - Heidenau - Heidenau Süd - Heidenau-Großsedlitz - Pirna"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe",
+    "Type": "Banlieue (S-Bahn Dresde)",
+    "Ligne": "S3",
+    "Depart": "Dresden Hbf",
+    "Terminus": "Tharandt (↔ Freiberg)",
+    "Gares_Desservies": "Dresden Hbf - Dresden-Plauen - Freital-Potschappel - Freital-Deuben - Freital-Hainsberg - Freital-Hainsberg West - Tharandt"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe",
+    "Type": "Banlieue (S-Bahn Mitteldeutschland)",
+    "Ligne": "S1 (Leipzig)",
+    "Depart": "Leipzig Miltitzer Allee",
+    "Terminus": "Leipzig Stötteritz",
+    "Gares_Desservies": "Miltitzer Allee - Karlsruher Straße - Allee-Center - Grünauer Allee - Leipzig-Leutzsch - Leipzig-Möckern - Leipzig Coppiplatz - Leipzig-Gohlis - Leipzig Hbf (tief) - Leipzig Markt - Leipzig Wilhelm-Leuschner-Platz - Leipzig Bayerischer Bahnhof - Leipzig MDR - Leipzig Völkerschlachtdenkmal - Leipzig Stötteritz"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe",
+    "Type": "Banlieue (S-Bahn Mitteldeutschland)",
+    "Ligne": "S3 (Leipzig)",
+    "Depart": "Halle(Saale)Hbf",
+    "Terminus": "Wurzen (↔ Oschatz)",
+    "Gares_Desservies": "Halle Hbf - Schkeuditz - Leipzig-Lützschena - Leipzig-Wahren - Leipzig-Möckern - Leipzig-Gohlis - Leipzig Hbf (tief) - Leipzig Markt - Wilhelm-Leuschner-Platz - Bayerischer Bahnhof - MDR - Völkerschlachtdenkmal - Stötteritz - Leipzig-Engelsdorf - Borsdorf(Sachs) - Gerichshain - Machern(Sachs) - Wurzen"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe",
+    "Type": "Banlieue (S-Bahn Mitteldeutschland)",
+    "Ligne": "S5",
+    "Depart": "Halle(Saale)Hbf",
+    "Terminus": "Zwickau(Sachs)Hbf",
+    "Gares_Desservies": "Halle Hbf - Aéroport Leipzig/Halle - Leipzig Messe - Leipzig Hbf (tief) - Leipzig Markt - Wilhelm-Leuschner-Platz - Bayerischer Bahnhof - MDR - Leipzig-Connewitz - Markkleeberg - Böhlen(Leipzig) - Altenburg (Thuringe) - Gößnitz - Crimmitschau - Werdau - Zwickau(Sachs)Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe",
+    "Type": "Tram-Train",
+    "Ligne": "Chemnitz Bahn (C13)",
+    "Depart": "Burgstädt",
+    "Terminus": "Aue(Sachs)",
+    "Gares_Desservies": "Burgstädt - Wittgensdorf ob Bf - Chemnitz Hbf - Chemnitz Zentralhaltestelle  - Chemnitz Technopark - Thalheim(Erzgeb) - Zwönitz - Aue(Sachs)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe",
+    "Type": "Tramway",
+    "Ligne": "Tram 11 (Leipzig)",
+    "Depart": "Schkeuditz",
+    "Terminus": "Markkleeberg-Ost",
+    "Gares_Desservies": "Schkeuditz - Lützschena - Wahren - Möckern - Gohlis - Chausseehaus - Hauptbahnhof - Augustusplatz - Karl-Liebknecht-Straße - Connewitz - Markkleeberg - Markkleeberg-Ost"
+  }
+]
