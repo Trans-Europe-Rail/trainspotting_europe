@@ -1,0 +1,119 @@
+[
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe-Anhalt",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 1 (Magdeburg-Cottbus)",
+    "Depart": "Magdeburg Hbf",
+    "Terminus": "Cottbus Hbf (Saxe)",
+    "Gares_Desservies": "Magdeburg Hbf - Magdeburg-Neustadt - Burg(Magdeburg) - Genthin - Brandenburg Hbf - Potsdam Hbf - Berlin Hbf - Berlin Ostbahnhof - Frankfurt(Oder) - Cottbus Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe-Anhalt",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 11 (Harz-Berlin-Express)",
+    "Depart": "Thale Hbf",
+    "Terminus": "Berlin Ostbahnhof",
+    "Gares_Desservies": "Thale Hbf - Quedlinburg - Halberstadt - Nienhagen(Halberst) - Oschersleben(Bode) - Magdeburg Hbf - Potsdam Hbf - Berlin Hbf - Berlin Ostbahnhof"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe-Anhalt",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 13",
+    "Depart": "Magdeburg Hbf",
+    "Terminus": "Leipzig Hbf (Saxe)",
+    "Gares_Desservies": "Magdeburg Hbf - Biederitz - Gommern - Zerbst - Rodleben - Dessau Hbf - Wolfen(Bitterfeld) - Bitterfeld - Delitzsch unt Bf - Leipzig Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe-Anhalt",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 20",
+    "Depart": "Magdeburg Hbf",
+    "Terminus": "Uelzen (Basse-Saxe)",
+    "Gares_Desservies": "Magdeburg Hbf - Tangerhütte - Stendal Hbf - Hohenwulsch - Salzwedel - Schnega - Soltendieck - Uelzen"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe-Anhalt",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 30",
+    "Depart": "Magdeburg Hbf",
+    "Terminus": "Halle(Saale)Hbf",
+    "Gares_Desservies": "Magdeburg Hbf - Schönebeck(Elbe) - Calbe(Saale) Ost - Sachsendorf(Calbe) - Wulfen(Anhalt) - Köthen - Stumsdorf - Niemberg - Zöberitz - Halle(Saale)Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe-Anhalt",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 36",
+    "Depart": "Magdeburg Hbf",
+    "Terminus": "Wolfsburg Hbf (Basse-Saxe)",
+    "Gares_Desservies": "Magdeburg Hbf - Magdeburg-Neustadt - Barleben - Meitzendorf - Haldensleben - Flechtingen - Oebisfelde - Wolfsburg Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe-Anhalt",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 40",
+    "Depart": "Braunschweig Hbf (Basse-Saxe)",
+    "Terminus": "Burg(Magdeburg)",
+    "Gares_Desservies": "Braunschweig Hbf - Helmstedt - Marienborn - Wefensleben - Eilsleben(b Magdeburg) - Dreileben-Drackenstedt - Ochtmersleben - Wellen(Magdeburg) - Magdeburg-Sudenburg - Magdeburg Hbf - Magdeburg-Neustadt - Magdeburg-Herrenkrug - Biederitz - Gerwisch - Möser - Burg(Magdeburg)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe-Anhalt",
+    "Type": "Banlieue (S-Bahn Mitteldeutschland)",
+    "Ligne": "S3",
+    "Depart": "Halle(Saale)Hbf",
+    "Terminus": "Wurzen (Saxe)",
+    "Gares_Desservies": "Halle(Saale)Hbf - Schkeuditz - Leipzig-Wahren - Leipzig Hbf (tief) - Leipzig Markt - Leipzig Stötteritz - Wurzen"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe-Anhalt",
+    "Type": "Banlieue (S-Bahn Mitteldeutschland)",
+    "Ligne": "S7",
+    "Depart": "Halle(Saale)Hbf",
+    "Terminus": "Lutherstadt Eisleben",
+    "Gares_Desservies": "Halle(Saale)Hbf - Halle-Rosengarten - Halle-Silberhöhe - Halle-Südstadt - Angersdorf - Teutschenthal - Röblingen am See - Amsdorf - Wansleben am See - Lutherstadt Eisleben"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe-Anhalt",
+    "Type": "Banlieue (S-Bahn Mitteldeutschland)",
+    "Ligne": "S8",
+    "Depart": "Halle(Saale)Hbf / Dessau Hbf",
+    "Terminus": "Leipzig Hbf (tief) (Saxe)",
+    "Gares_Desservies": "Halle(Saale)Hbf / Dessau Hbf - Landsberg(b. Halle) - Brehna - Roitzsch(Bitterf) - Bitterfeld - Muldenstein - Burgkemnitz - Gräfenhainichen - Radis - Bergwitz - Lutherstadt Wittenberg Hbf - Leipzig Hbf (tief)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe-Anhalt",
+    "Type": "Banlieue (S-Bahn Magdebourg)",
+    "Ligne": "S1 (Magdebourg)",
+    "Depart": "Schönebeck-Bad Salzelmen",
+    "Terminus": "Wittenberge (Brandebourg)",
+    "Gares_Desservies": "Schönebeck-Bad Salzelmen - Schönebeck(Elbe) - Magdeburg-Buckau - Magdeburg Hbf - Magdeburg-Neustadt - Magdeburg-Eichenweiler - Magdeburg-Rothensee - Wolmirstedt - Zielitz - Angern-Rogätz - Tangerhütte - Stendal Hbf - Osterburg - Seehausen(Altm) - Wittenberge"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe-Anhalt",
+    "Type": "Train à voie étroite (Harz)",
+    "Ligne": "HSB (Harzer Schmalspurbahnen)",
+    "Depart": "Wernigerode",
+    "Terminus": "Nordhausen Nord (Thuringe) / Brocken",
+    "Gares_Desservies": "Wernigerode - Drei Annen Hohne - Schierke - Brocken - Elend - Benneckenstein - Eisfelder Talmühle - Ilfeld - Nordhausen Nord (Traction vapeur historique)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Saxe-Anhalt",
+    "Type": "Tramway / Métro léger",
+    "Ligne": "Tram 5 (Halle)",
+    "Depart": "Halle (Kröllwitz)",
+    "Terminus": "Bad Dürrenberg",
+    "Gares_Desservies": "Kröllwitz - Heide-Universitätsklinikum - Rennbahnkreuz - Saline - Ammendorf - Schkopau - Merseburg - Leuna - Bad Dürrenberg (Ligne de tramway interurbaine de 31 km, idéale spotteurs)"
+  }
+]
