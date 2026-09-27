@@ -1,0 +1,74 @@
+[
+  {
+    "Pays": "Finlande",
+    "Region": "National",
+    "Type": "Grande Vitesse (Pendolino)",
+    "Ligne": "Pendolino S220",
+    "Depart": "Helsinki Central",
+    "Terminus": "Oulu",
+    "Gares_Desservies": "Helsinki Central - Pasila - Tikkurila - Riihimäki - Hämeenlinna - Tampere - Parkano - Seinäjoki - Lapua - Kauhava - Kokkola - Kannus - Ylivieska - Oulu"
+  },
+  {
+    "Pays": "Finlande",
+    "Region": "National",
+    "Type": "Grande Vitesse (Pendolino)",
+    "Ligne": "Pendolino S225",
+    "Depart": "Helsinki Central",
+    "Terminus": "Joensuu",
+    "Gares_Desservies": "Helsinki Central - Pasila - Tikkurila - Kouvola - Lappeenranta - Imatra - Parikkala - Kitee - Joensuu"
+  },
+  {
+    "Pays": "Finlande",
+    "Region": "National",
+    "Type": "InterCity (IC)",
+    "Ligne": "IC Rovaniemi",
+    "Depart": "Helsinki Central",
+    "Terminus": "Rovaniemi (Cercle Polaire)",
+    "Gares_Desservies": "Helsinki Central - Pasila - Tikkurila - Tampere - Seinäjoki - Kokkola - Ylivieska - Oulu - Kemi - Rovaniemi"
+  },
+  {
+    "Pays": "Finlande",
+    "Region": "National",
+    "Type": "InterCity (IC)",
+    "Ligne": "IC Turku",
+    "Depart": "Helsinki Central",
+    "Terminus": "Kupittaa (Turku)",
+    "Gares_Desservies": "Helsinki Central - Pasila - Leppävaara - Kirkkonummi - Karjaa - Salo - Kupittaa"
+  },
+  {
+    "Pays": "Finlande",
+    "Region": "Helsinki",
+    "Type": "Banlieue (Ligne Circulaire)",
+    "Ligne": "Ligne I / P",
+    "Depart": "Helsinki Central (Boucle)",
+    "Terminus": "Helsinki Central (Boucle)",
+    "Gares_Desservies": "Helsinki Central - Pasila - Käpylä - Oulunkylä - Malmi - Puistola - Tikkurila - Hiekkaharju - Leinelä - Lentoasema (Aéroport) - Aviapolis - Kivistö - Vehkala - Vantaankoski - Martinlaakso - Louhela - Myyrmäki - Malminkartano - Kannelmäki - Pohjois-Haaga - Huopalahti - Ilmala - Pasila - Helsinki Central"
+  },
+  {
+    "Pays": "Finlande",
+    "Region": "Helsinki",
+    "Type": "Banlieue",
+    "Ligne": "Ligne K",
+    "Depart": "Helsinki Central",
+    "Terminus": "Kerava",
+    "Gares_Desservies": "Helsinki Central - Pasila - Käpylä - Oulunkylä - Malmi - Puistola - Tikkurila - Hiekkaharju - Koivukylä - Rekola - Savio - Kerava"
+  },
+  {
+    "Pays": "Finlande",
+    "Region": "Helsinki",
+    "Type": "Métro lourd",
+    "Ligne": "M1",
+    "Depart": "Kivenlahti",
+    "Terminus": "Vuosaari",
+    "Gares_Desservies": "Kivenlahti - Espoonlahti - Soukka - Kaitaa - Finnoo - Matinkylä - Urheilupuisto - Urheilupuisto - Tapiola - Keilaniemi - Koivusaari - Lauttasaari - Ruoholahti - Kamppi - Rautatientori (Gare Centrale) - Kaisaniemi - Hakaniemi - Sörnäinen - Kalasatama - Kulosaari - Herttoniemi - Siilitie - Itäkeskus - Puotila - Rastila - Vuosaari"
+  },
+  {
+    "Pays": "Finlande",
+    "Region": "Helsinki",
+    "Type": "Métro lourd",
+    "Ligne": "M2",
+    "Depart": "Tapiola",
+    "Terminus": "Mellunmäki",
+    "Gares_Desservies": "Tapiola - Keilaniemi - Koivusaari - Lauttasaari - Ruoholahti - Kamppi - Rautatientori (Gare Centrale) - Kaisaniemi - Hakaniemi - Sörnäinen - Kalasatama - Kulosaari - Herttoniemi - Siilitie - Itäkeskus - Myllypuro - Kontula - Mellunmäki"
+  }
+]
