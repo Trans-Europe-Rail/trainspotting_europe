@@ -1,0 +1,553 @@
+[
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière / National",
+    "Type": "Grande Vitesse (ICE)",
+    "Ligne": "ICE 11",
+    "Depart": "München Hbf",
+    "Terminus": "Berlin Hbf",
+    "Gares_Desservies": "München - Augsburg - Günzburg - Ulm - Stuttgart - Mannheim - Frankfurt - Fulda - Erfurt - Leipzig - Berlin"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière / National",
+    "Type": "Grande Vitesse (ICE)",
+    "Ligne": "ICE 25",
+    "Depart": "München Hbf",
+    "Terminus": "Hamburg Hbf",
+    "Gares_Desservies": "München - Ingolstadt - Nürnberg - Würzburg - Fulda - Kassel - Göttingen - Hannover - Hamburg"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière / National",
+    "Type": "Grande Vitesse (ICE)",
+    "Ligne": "ICE 28",
+    "Depart": "München Hbf",
+    "Terminus": "Berlin Hbf",
+    "Gares_Desservies": "München - Nürnberg - Erlangen - Bamberg - Coburg - Erfurt - Leipzig - Berlin"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière / National",
+    "Type": "Grande Vitesse (ICE)",
+    "Ligne": "ICE 41",
+    "Depart": "München Hbf",
+    "Terminus": "Dortmund Hbf",
+    "Gares_Desservies": "München - Nürnberg - Würzburg - Aschaffenburg - Frankfurt - Köln - Düsseldorf - Duisburg - Essen - Dortmund"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière / National",
+    "Type": "Grande Vitesse (ICE)",
+    "Ligne": "ICE 91",
+    "Depart": "Wien Hbf (AT)",
+    "Terminus": "Frankfurt(Main)Hbf",
+    "Gares_Desservies": "Wien - Linz - Passau - Plattling - Regensburg - Nürnberg - Würzburg - Hanau - Frankfurt"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière / International",
+    "Type": "EuroCity (EC)",
+    "Ligne": "EC 89 (Brenner)",
+    "Depart": "München Hbf",
+    "Terminus": "Bologna Centrale (IT)",
+    "Gares_Desservies": "München - Rosenheim - Kufstein - Wörgl - Innsbruck - Brenner - Bolzano - Trento - Verona - Bologna"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière / International",
+    "Type": "Trains de Nuit",
+    "Ligne": "NJ 421 (Nightjet)",
+    "Depart": "Amsterdam Centraal",
+    "Terminus": "Innsbruck Hbf",
+    "Gares_Desservies": "Amsterdam - Düsseldorf - Frankfurt - Würzburg - Nürnberg - Augsburg - München - Rosenheim - Kufstein - Innsbruck"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 1 (München-Nürnberg)",
+    "Depart": "München Hbf",
+    "Terminus": "Nürnberg Hbf",
+    "Gares_Desservies": "München - Petershausen - Pfaffenhofen - Rohrbach - Ingolstadt - Allersberg - Nürnberg (LGV 200km/h)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 2 (Alex)",
+    "Depart": "München Hbf",
+    "Terminus": "Hof Hbf",
+    "Gares_Desservies": "München - Freising - Landshut - Neufahrn - Regensburg - Schwandorf - Weiden - Marktredwitz - Hof"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 3 (Donau-Isar)",
+    "Depart": "München Hbf",
+    "Terminus": "Passau Hbf",
+    "Gares_Desservies": "München - Freising - Moosburg - Landshut - Wörth - Dingolfing - Landau - Plattling - Vilshofen - Passau"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 4",
+    "Depart": "München Hbf",
+    "Terminus": "Simbach(Inn)",
+    "Gares_Desservies": "München - Ostbahnhof - Markt Schwaben - Dorfen - Mühldorf - Töging - Neuötting - Simbach"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 5",
+    "Depart": "München Hbf",
+    "Terminus": "Salzburg Hbf (AT)",
+    "Gares_Desservies": "München - Ostbahnhof - Rosenheim - Bad Endorf - Prien - Bernau - Übersee - Bergen - Traunstein - Freilassing - Salzburg"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 7",
+    "Depart": "Augsburg Hbf",
+    "Terminus": "Lindau-Reutin",
+    "Gares_Desservies": "Augsburg - Buchloe - Kaufbeuren - Kempten - Immenstadt - Oberstaufen - Hergatz - Lindau"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 8",
+    "Depart": "München Hbf",
+    "Terminus": "Treuchtlingen",
+    "Gares_Desservies": "München - Mering - Augsburg - Donauwörth - Otting-Weilheim - Treuchtlingen"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 9",
+    "Depart": "München Hbf",
+    "Terminus": "Ulm Hbf",
+    "Gares_Desservies": "München - Mering - Augsburg - Gessertshausen - Dinkelscherben - Burgau - Günzburg - Neu-Ulm - Ulm"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 10",
+    "Depart": "Nürnberg Hbf",
+    "Terminus": "Würzburg Hbf",
+    "Gares_Desservies": "Nürnberg - Fürth - Siegelsdorf - Neustadt(Aisch) - Kitzingen - Würzburg"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 16",
+    "Depart": "Nürnberg Hbf",
+    "Terminus": "Augsburg Hbf",
+    "Gares_Desservies": "Nürnberg - Schwabach - Roth - Treuchtlingen - Donauwörth - Meitingen - Augsburg"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 19",
+    "Depart": "Nürnberg Hbf",
+    "Terminus": "Coburg Hbf",
+    "Gares_Desservies": "Nürnberg - Fürth - Erlangen - Forchheim - Hirschaid - Bamberg - Coburg (LGV VDE 8)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 20",
+    "Depart": "Nürnberg Hbf",
+    "Terminus": "Würzburg Hbf",
+    "Gares_Desservies": "Nürnberg - Fürth - Erlangen - Forchheim - Bamberg - Schweinfurt - Würzburg"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 25",
+    "Depart": "München Hbf",
+    "Terminus": "Praha hl.n. (CZ)",
+    "Gares_Desservies": "München - Freising - Landshut - Regensburg - Schwandorf - Cham - Furth im Wald - Plzeň - Praha"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 30",
+    "Depart": "Nürnberg Hbf",
+    "Terminus": "Hof Hbf",
+    "Gares_Desservies": "Nürnberg - Lauf(Pegnitz) - Hersbruck - Neuhaus - Pegnitz - Bayreuth - Neuenmarkt-Wirsberg - Hof"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 40",
+    "Depart": "Nürnberg Hbf",
+    "Terminus": "Regensburg Hbf",
+    "Gares_Desservies": "Nürnberg - Neumarkt(Oberpfalz) - Parsberg - Beratzhausen - Regensburg"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 41",
+    "Depart": "Nürnberg Hbf",
+    "Terminus": "Neustadt(Waldnaab)",
+    "Gares_Desservies": "Nürnberg - Lauf - Hersbruck - Sulzbach-Rosenberg - Amberg - Schwandorf - Weiden - Neustadt"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 50",
+    "Depart": "Nürnberg Hbf",
+    "Terminus": "Ansbach",
+    "Gares_Desservies": "Nürnberg - Roßtal - Heilsbronn - Wicklesgreuth - Ansbach"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 57",
+    "Depart": "München Hbf",
+    "Terminus": "Füssen",
+    "Gares_Desservies": "München - Geltendorf - Kaufering - Buchloe - Kaufbeuren - Biessenhofen - Marktoberdorf - Füssen"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 60",
+    "Depart": "Nürnberg Hbf",
+    "Terminus": "Treuchtlingen",
+    "Gares_Desservies": "Nürnberg - Schwabach - Roth - Georgensgmünd - Pleinfeld - Weißenburg - Treuchtlingen"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 70",
+    "Depart": "München Hbf",
+    "Terminus": "Lindau-Reutin",
+    "Gares_Desservies": "München - Kaufering - Buchloe - Kaufbeuren - Kempten - Immenstadt - Oberstdorf / Lindau"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 80",
+    "Depart": "Würzburg Hbf",
+    "Terminus": "Treuchtlingen",
+    "Gares_Desservies": "Würzburg - Ochsenfurt - Steinach - Ansbach - Gunzenhausen - Treuchtlingen"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 13 (Agilis)",
+    "Depart": "Regensburg Hbf",
+    "Terminus": "Ulm Hbf",
+    "Gares_Desservies": "Regensburg - Sinzing - Abensberg - Neustadt(Donau) - Ingolstadt - Neuburg(Donau) - Donauwörth - Günzburg - Ulm"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 15",
+    "Depart": "Ingolstadt Hbf",
+    "Terminus": "Donauwörth",
+    "Gares_Desservies": "Ingolstadt - Weichering - Neuburg - Unterhausen - Straß-Moos - Rain - Genderkingen - Donauwörth"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 54",
+    "Depart": "München Hbf",
+    "Terminus": "Kufstein (AT)",
+    "Gares_Desservies": "München - Grafing - Aßling - Ostermünchen - Großkarolinenfeld - Rosenheim - Raubling - Brannenburg - Flintsbach - Oberaudorf - Kiefersfelden - Kufstein"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 55 (BRB)",
+    "Depart": "München Hbf",
+    "Terminus": "Bayrischzell",
+    "Gares_Desservies": "München - Holzkirchen - Schliersee - Bayrischzell (BRB Oberlandbahn)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 56 (BRB)",
+    "Depart": "München Hbf",
+    "Terminus": "Lenggries",
+    "Gares_Desservies": "München - Holzkirchen - Bad Tölz - Lenggries (BRB)"
+  }
+  {
+    "Pays": "Allemagne",
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 57 (BRB)",
+    "Depart": "München Hbf",
+    "Terminus": "Tegernsee",
+    "Gares_Desservies": "München - Holzkirchen - Schaftlach - Tegernsee (BRB)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 58",
+    "Depart": "Holzkirchen",
+    "Terminus": "Rosenheim",
+    "Gares_Desservies": "Holzkirchen - Kreuzstraße - Westerham - Bruckmühl - Heufeld - Bad Aibling - Rosenheim (Mangfalltalbahn)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Bavière",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 92",
+    "Depart": "Memmingen",
+    "Terminus": "Lindau-Insel",
+    "Gares_Desservies": "Memmingen - Leutkirch - Wangen - Hergatz - Lindau-Insel"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Munich",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S1 (M)",
+    "Depart": "Leuchtenbergring",
+    "Terminus": "Aéroport / Freising",
+    "Gares_Desservies": "München-Pasing - Laim - Donnersbergerbrücke - Hackerbrücke - Hauptbahnhof - Karlsplatz(Stachus) - Marienplatz - Isartor - Rosenheimer Platz - Ostbahnhof - Moosach - Feldmoching - Neufahrn - Freising / Aéroport"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Munich",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S2 (M)",
+    "Depart": "Erding",
+    "Terminus": "Petershausen",
+    "Gares_Desservies": "Erding - Markt Schwaben - Riem - Ostbahnhof - Marienplatz - Hauptbahnhof - Laim - Pasing - Dachau - Petershausen / Altomünster"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Munich",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S3 (M)",
+    "Depart": "Holzkirchen",
+    "Terminus": "Mammendorf",
+    "Gares_Desservies": "Holzkirchen - Deisenhofen - Giesing - Ostbahnhof - Marienplatz - Hauptbahnhof - Pasing - Lochhausen - Olching - Maisach - Mammendorf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Munich",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S4 (M)",
+    "Depart": "Leuchtenbergring",
+    "Terminus": "Geltendorf",
+    "Gares_Desservies": "Geltendorf - Grafrath - Buchenau - Fürstenfeldbruck - Puchheim - Pasing - Hauptbahnhof - Marienplatz - Ostbahnhof"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Munich",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S6 (M)",
+    "Depart": "Ebersberg",
+    "Terminus": "Tutzing",
+    "Gares_Desservies": "Ebersberg - Grafing - Zorneding - Haar - Ostbahnhof - Marienplatz - Hauptbahnhof - Pasing - Planegg - Starnberg - Possenhofen - Feldafing - Tutzing"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Munich",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S7 (M)",
+    "Depart": "Kreuzstraße",
+    "Terminus": "Wolfratshausen",
+    "Gares_Desservies": "Kreuzstraße - Aying - Höhenkirchen - Giesing - Ostbahnhof - Marienplatz - Hauptbahnhof - Donnersbergerbrücke - Harras - Siemenswerke - Höllriegelskreuth - Wolfratshausen"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Munich",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S8 (M)",
+    "Depart": "Herrsching",
+    "Terminus": "Aéroport de München",
+    "Gares_Desservies": "Herrsching - Seefeld - Weßling - Germering - Pasing - Hauptbahnhof - Marienplatz - Ostbahnhof - Leuchtenbergring - Daglfing - Johanneskirchen - Ismaning - Hallbergmoos - Aéroport"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Munich",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S20 (M)",
+    "Depart": "Pasing",
+    "Terminus": "Höllriegelskreuth",
+    "Gares_Desservies": "Pasing - Heimeranplatz - Mittersendling - Siemenswerke - Solln - Großhesselohe - Höllriegelskreuth"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Nuremberg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S1 (N)",
+    "Depart": "Bamberg",
+    "Terminus": "Hartmannshof",
+    "Gares_Desservies": "Bamberg - Strullendorf - Hirschaid - Forchheim - Erlangen - Fürth - Nürnberg Hbf - Lauf(Pegnitz) - Hersbruck - Hartmannshof"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Nuremberg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S2 (N)",
+    "Depart": "Roth",
+    "Terminus": "Altdorf",
+    "Gares_Desservies": "Roth - Büchenbach - Schwabach - Reichelsdorf - Nürnberg Hbf - Feucht - Altdorf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Nuremberg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S3 (N)",
+    "Depart": "Nürnberg Hbf",
+    "Terminus": "Neumarkt(Oberpfalz)",
+    "Gares_Desservies": "Nürnberg Hbf - Feucht - Ochenbruck - Postbauer-Heng - Neumarkt"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Nuremberg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S4 (N)",
+    "Depart": "Nürnberg Hbf",
+    "Terminus": "Dombühl",
+    "Gares_Desservies": "Nürnberg Hbf - Ansbach - Leutershausen - Dombühl"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Nuremberg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S5 (N)",
+    "Depart": "Nürnberg Hbf",
+    "Terminus": "Allersberg(Rothsee)",
+    "Gares_Desservies": "Nürnberg Hbf - Allersberg"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Nuremberg",
+    "Type": "Banlieue (S-Bahn)",
+    "Ligne": "S6 (N)",
+    "Depart": "Nürnberg Hbf",
+    "Terminus": "Neustadt(Aisch)",
+    "Gares_Desservies": "Nürnberg Hbf - Fürth - Siegelsdorf - Hagenbüchach - Neustadt"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Munich",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U1 (M)",
+    "Depart": "Olympia-Einkaufszentrum",
+    "Terminus": "Mangfallplatz",
+    "Gares_Desservies": "Olympia-Einkaufszentrum - Gern - Rotkreuzplatz - Maillingerstraße - Stiglmaierplatz - Hauptbahnhof - Sendlinger Tor - Fraunhoferstraße - Kolumbusplatz - Candidplatz - Wettersteinplatz - St.-Quirin-Platz - Mangfallplatz"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Munich",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U2 (M)",
+    "Depart": "Feldmoching",
+    "Terminus": "Messestadt Ost",
+    "Gares_Desservies": "Feldmoching - Milbertshofen - Scheidplatz - Hohenzollernplatz - Josephsplatz - Theresienstraße - Königsplatz - Hauptbahnhof - Sendlinger Tor - Fraunhoferstraße - Kolumbusplatz - Silberhornstraße - Giesing - Karl-Preis-Platz - Innsbrucker Ring - Josephsburg - Kreillerstraße - Trudering - Moosfeld - Messestadt West - Messestadt Ost"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Munich",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U3 (M)",
+    "Depart": "Moosach",
+    "Terminus": "Fürstenried West",
+    "Gares_Desservies": "Moosach - Olympia-Einkaufszentrum - Oberwiesenfeld - Olympiazentrum - Petuelring - Scheidplatz - Bonner Platz - Münchner Freiheit - Giselastraße - Universität - Odeonsplatz - Marienplatz - Sendlinger Tor - Goetheplatz - Poccistraße - Implerstraße - Brudermühlstraße - Thalkirchen - Obersendling - Aidenbachstraße - Machtlfinger Straße - Forstenrieder Allee - Basler Straße - Fürstenried West"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Munich",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U4 (M)",
+    "Depart": "Westendstraße",
+    "Terminus": "Arabellapark",
+    "Gares_Desservies": "Westendstraße - Heimeranplatz - Schwanthalerhöhe - Theresienwiese - Hauptbahnhof - Karlsplatz(Stachus) - Odeonsplatz - Lehel - Max-Weber-Platz - Prinzregentenplatz - Böhmerwaldplatz - Richard-Strauss-Straße - Arabellapark"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Munich",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U5 (M)",
+    "Depart": "Laimer Platz",
+    "Terminus": "Neuperlach Süd",
+    "Gares_Desservies": "Laimer Platz - Friedenheimer Straße - Westendstraße - Heimeranplatz - Schwanthalerhöhe - Theresienwiese - Hauptbahnhof - Karlsplatz(Stachus) - Odeonsplatz - Lehel - Max-Weber-Platz - Ostbahnhof - Innsbrucker Ring - Michaelibad - Quiddestraße - Neuperlach Zentrum - Therese-Giehse-Allee - Neuperlach Süd"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Munich",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U6 (M)",
+    "Depart": "Garching-Forschungszentrum",
+    "Terminus": "Klinikum Großhadern",
+    "Gares_Desservies": "Garching-Forschungszentrum - Garching - Garching-Hochbrück - Fröttmaning - Kieferngarten - Freimann - Studentenstadt - Alte Heide - Nordfriedhof - Dietlindenstraße - Münchner Freiheit - Giselastraße - Universität - Odeonsplatz - Marienplatz - Sendlinger Tor - Goetheplatz - Poccistraße - Implerstraße - Harras - Partnachplatz - Westpark - Haderner Stern - Großhadern - Klinikum Großhadern"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Nuremberg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U1 (N)",
+    "Depart": "Fürth Hardhöhe",
+    "Terminus": "Langwasser Süd",
+    "Gares_Desservies": "Hardhöhe - Fürth Hbf - Jakobinenstraße - Stadtgrenze - Muggenhof - Eberhardshof - Gostenhof - Plärrer - Weißer Turm - Lorenzkirche - Nürnberg Hbf - Aufseßplatz - Maffeiplatz - Frankenstraße - Hasenbuck - Bauernfeindstraße - Messe - Langwasser Nord - Scharfreiterring - Langwasser Mitte - Gemeinschaftshaus - Langwasser Süd"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Nuremberg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U2 (N)",
+    "Depart": "Röthenbach",
+    "Terminus": "Flughafen",
+    "Gares_Desservies": "Röthenbach - Hohe Marter - Schweinau - St. Leonhard - Rothenburger Straße - Plärrer - Opernhaus - Nürnberg Hbf - Wöhrder Wiese - Rathenauplatz - Rennweg - Schoppershof - Nordostbahnhof - Herrnhütte - Ziegelstein - Flughafen"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Nuremberg",
+    "Type": "Métro (U-Bahn)",
+    "Ligne": "U3 (N)",
+    "Depart": "Großreuth b. Schweinau",
+    "Terminus": "Nordwestring",
+    "Gares_Desservies": "Großreuth - Gustav-Adolf-Straße - Sündersbühl - Rothenburger Straße - Plärrer - Opernhaus - Nürnberg Hbf - Wöhrder Wiese - Rathenauplatz - Maxfeld - Kaulbachplatz - Friedrich-Ebert-Platz - Klinikum Nord - Nordwestring"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Munich",
+    "Type": "Tramway",
+    "Ligne": "Tram 19",
+    "Depart": "Pasing Bahnhof",
+    "Terminus": "Berg am Laim",
+    "Gares_Desservies": "Pasing - Fürstenrieder Str. - Lautensackstr. - Trappentreustr. - Hauptbahnhof - Karlsplatz - Maximiliansplatz - Max-Weber-Platz - Ostbahnhof - Berg am Laim"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Nuremberg",
+    "Type": "Tramway",
+    "Ligne": "Tram 4",
+    "Depart": "Gibitzenhof",
+    "Terminus": "Am Wegfeld",
+    "Gares_Desservies": "Gibitzenhof - Landgrabenstraße - Plärrer - Hallertor - Friedrich-Ebert-Platz - Thon - Am Wegfeld"
+  }
+]
