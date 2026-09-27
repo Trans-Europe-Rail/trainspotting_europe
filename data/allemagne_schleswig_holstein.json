@@ -1,0 +1,92 @@
+[
+  {
+    "Pays": "Allemagne",
+    "Region": "Schleswig-Holstein",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 6 (Marschbahn)",
+    "Depart": "Altona (Hamburg)",
+    "Terminus": "Westerland (Sylt)",
+    "Gares_Desservies": "Altona - Elmshorn - Itzehoe - Wilster - Burg(Dithm) - St Michaelisdonn - Meldorf - Heide(Holst) - Lunden - Friedrichstadt - Husum - Bredstedt - Langenhorn(Schlesw) - Niebüll - Klanxbüll - Morsum - Keitum - Westerland(Sylt) (Axe mythique sur la digue du Hindenburgdamm)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Schleswig-Holstein",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 7",
+    "Depart": "Hamburg Hbf",
+    "Terminus": "Flensburg / Kiel Hbf",
+    "Gares_Desservies": "Hamburg Hbf - Hamburg Dammtor - Pinneberg - Elmshorn - Wrist - Neumünster - Einfeld - Bordesholm - Flintbek - Kiel Hbf / Neumünster - Rendsburg - Owschlag - Schleswig - Jübek - Tarp - Flensburg"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Schleswig-Holstein",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 8",
+    "Depart": "Hamburg Hbf",
+    "Terminus": "Lübeck Hbf",
+    "Gares_Desservies": "Hamburg Hbf - Bad Oldesloe - Reinfeld(Holst) - Lübeck-Moisling - Lübeck Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Schleswig-Holstein",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 83",
+    "Depart": "Kiel Hbf",
+    "Terminus": "Lüneburg (Basse-Saxe)",
+    "Gares_Desservies": "Kiel Hbf - Raisdorf - Preetz - Ascheberg(Holst) - Plön - Bad Malente-Gremsmühlen - Eutin - Pönitz(Holst) - Pansdorf - Bad Schwartau - Lübeck Hbf - Lübeck-Hochschulstadtteil - Lübeck Flughafen - Ratzeburg - Mölln(Lauenb) - Büchen - Lauenburg(Elbe) - Echem - Lüneburg"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Schleswig-Holstein",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 61",
+    "Depart": "Hamburg Hbf",
+    "Terminus": "Itzehoe",
+    "Gares_Desservies": "Hamburg Hbf - Hamburg Dammtor - Pinneberg - Prisdorf - Tornesch - Elmshorn - Herzhorn - Glückstadt - Krempe - Kremperheide - Itzehoe"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Schleswig-Holstein",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 64",
+    "Depart": "Husum",
+    "Terminus": "Bad St Peter-Ording",
+    "Gares_Desservies": "Husum - Witzwort - Harblelek - Tönning - Kating - Garding - Sandwehle - Katharinenheerd - Tating - Bad St Peter Süd - Bad St Peter-Ording"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Schleswig-Holstein",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 73",
+    "Depart": "Kiel Hbf",
+    "Terminus": "Eckernförde",
+    "Gares_Desservies": "Kiel Hbf - Kiel-Hassee CITTI-PARK - Kiel-Russee - Melsdorf - Achterwehr - Felde - Bredenbek - Schinkel - Gettorf - Eckernförde"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Schleswig-Holstein",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 81",
+    "Depart": "Hamburg Hbf",
+    "Terminus": "Bad Oldesloe",
+    "Gares_Desservies": "Hamburg Hbf - Hamburg-Hasselbrook - Hamburg-Tonndorf - Hamburg-Rahlstedt - Ahrensburg - Ahrensburg-Gartenholz - Bargteheide - Kupfermühle - Bad Oldesloe"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Schleswig-Holstein",
+    "Type": "Ligne de banlieue privée (AKN)",
+    "Ligne": "Ligne A1 (AKN Nord)",
+    "Depart": "Quickborn",
+    "Terminus": "Neumünster",
+    "Gares_Desservies": "Quickborn - Quickborn Süd - Ellerau - Henstedt-Ulzburg - Kaltenkirchen Süd - Kaltenkirchen(Holst) - Holstentherme - dodenhof - Nützen - Lentföhrden - Bad Bramstedt Kurhaus - Bad Bramstedt - Wiemersdorf - Großenaspe - Boostedt - Neumünster Süd - Neumünster"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Schleswig-Holstein",
+    "Type": "Ligne de banlieue privée (AKN)",
+    "Ligne": "Ligne A2 (AKN)",
+    "Depart": "Norderstedt Mitte",
+    "Terminus": "Ulzburg Süd",
+    "Gares_Desservies": "Norderstedt Mitte - Moorbekhalle - Friedrichsgabe - Quickborner Straße - Haslohfurth - Meesschen - Ulzburg Süd"
+  }
+]
