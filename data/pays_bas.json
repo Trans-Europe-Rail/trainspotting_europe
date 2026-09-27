@@ -1,0 +1,119 @@
+[
+  {
+    "Pays": "Pays-Bas",
+    "Region": "National",
+    "Type": "Intercity (IC)",
+    "Ligne": "IC 800",
+    "Depart": "Alkmaar",
+    "Terminus": "Maastricht",
+    "Gares_Desservies": "Alkmaar - Heiloo - Castricum - Zaandam - Amsterdam Centraal - Amsterdam Amstel - Utrecht Centraal - 's-Hertogenbosch - Eindhoven Centraal - Weert - Roermond - Sittard - Maastricht"
+  },
+  {
+    "Pays": "Pays-Bas",
+    "Region": "National",
+    "Type": "Intercity (IC)",
+    "Ligne": "IC 1400",
+    "Depart": "Utrecht Centraal",
+    "Terminus": "Deventer",
+    "Gares_Desservies": "Utrecht Centraal - Amersfoort Centraal - Apeldoorn - Deventer"
+  },
+  {
+    "Pays": "Pays-Bas",
+    "Region": "National",
+    "Type": "Intercity (IC)",
+    "Ligne": "IC 1500",
+    "Depart": "Enkhuizen",
+    "Terminus": "Deventer",
+    "Gares_Desservies": "Enkhuizen - Hoorn - Purmerend - Amsterdam Centraal - Hilversum - Amersfoort Centraal - Apeldoorn - Deventer"
+  },
+  {
+    "Pays": "Pays-Bas",
+    "Region": "National",
+    "Type": "Intercity (IC)",
+    "Ligne": "IC 2200",
+    "Depart": "Amsterdam Centraal",
+    "Terminus": "Vlissingen",
+    "Gares_Desservies": "Amsterdam Centraal - Haarlem - Leiden Centraal - Den Haag HS - Rotterdam Centraal - Dordrecht - Roosendaal - Bergen op Zoom - Goes - Middelburg - Vlissingen (Axe littoral majeur)"
+  },
+  {
+    "Pays": "Pays-Bas",
+    "Region": "National",
+    "Type": "Intercity (IC)",
+    "Ligne": "IC 3000",
+    "Depart": "Den Helder",
+    "Terminus": "Nijmegen",
+    "Gares_Desservies": "Den Helder - Alkmaar - Castricum - Zaandam - Amsterdam Centraal - Amsterdam Amstel - Utrecht Centraal - Ede-Wageningen - Arnhem Centraal - Nijmegen"
+  },
+  {
+    "Pays": "Pays-Bas",
+    "Region": "Amsterdam",
+    "Type": "Métro lourd",
+    "Ligne": "M50",
+    "Depart": "Isolatorweg",
+    "Terminus": "Gein",
+    "Gares_Desservies": "Isolatorweg - Sloterdijk - Lelylaan - Zuid - RAI - Duivendrecht - Bijlmer ArenA - Holendrecht - Gein"
+  },
+  {
+    "Pays": "Pays-Bas",
+    "Region": "Amsterdam",
+    "Type": "Métro lourd",
+    "Ligne": "M51",
+    "Depart": "Centraal Station",
+    "Terminus": "Isolatorweg",
+    "Gares_Desservies": "Centraal Station - Nieuwmarkt - Waterlooplein - Weesperplein - Wibautstraat - Amstel - Overamstel - Zuid - Lelylaan - Sloterdijk - Isolatorweg"
+  },
+  {
+    "Pays": "Pays-Bas",
+    "Region": "Amsterdam",
+    "Type": "Métro lourd",
+    "Ligne": "M52",
+    "Depart": "Noord",
+    "Terminus": "Zuid",
+    "Gares_Desservies": "Noord - Noorderpark - Centraal Station - Rokin - Vijzelgracht - De Pijp - Europaplein - Zuid (La grande ligne Nord-Sud récente)"
+  },
+  {
+    "Pays": "Pays-Bas",
+    "Region": "Amsterdam",
+    "Type": "Métro lourd",
+    "Ligne": "M53 / M54",
+    "Depart": "Centraal Station",
+    "Terminus": "Gaasperplas / Gein",
+    "Gares_Desservies": "Centraal Station - Nieuwmarkt - Waterlooplein - Weesperplein - Wibautstraat - Amstel - Spaklerweg - Van der Madeweg - Duivendrecht - Bijlmer ArenA - Gaasperplas / Gein"
+  },
+  {
+    "Pays": "Pays-Bas",
+    "Region": "Rotterdam",
+    "Type": "Métro lourd",
+    "Ligne": "Ligne A / C",
+    "Depart": "Binnenhof / De Terp",
+    "Terminus": "De Akkers",
+    "Gares_Desservies": "Binnenhof / De Terp - Schiedam Centrum - Pernis - Hoogvliet - Spijkenisse Centrum - De Akkers"
+  },
+  {
+    "Pays": "Pays-Bas",
+    "Region": "Rotterdam",
+    "Type": "Métro lourd",
+    "Ligne": "Ligne B",
+    "Depart": "Nesselande",
+    "Terminus": "Hoek van Holland Strand",
+    "Gares_Desservies": "Nesselande - Alexander - Blaak - Beurs - Schiedam Centrum - Vlaardingen Centrum - Maassluis Centrum - Hoek van Holland Haven - Hoek van Holland Strand (Métro qui arrive directement sur le sable, spot unique)"
+  },
+  {
+    "Pays": "Pays-Bas",
+    "Region": "Rotterdam",
+    "Type": "Métro lourd",
+    "Ligne": "Ligne D",
+    "Depart": "Rotterdam Centraal",
+    "Terminus": "De Akkers",
+    "Gares_Desservies": "Rotterdam Centraal - Stadhuis - Beurs - Leuvehaven - Wilhelminaplein - Rijnhaven - Maashaven - Zuidplein - Slinge - Rhoon - Poortugaal - Hoogvliet - Spijkenisse Centrum - De Akkers"
+  },
+  {
+    "Pays": "Pays-Bas",
+    "Region": "Rotterdam / La Haye",
+    "Type": "Métro léger / Interurbain",
+    "Ligne": "Ligne E (RandstadRail)",
+    "Depart": "Den Haag Centraal",
+    "Terminus": "Slinge (Rotterdam)",
+    "Gares_Desservies": "Den Haag Centraal - Laan van NOI - Voorburg 't Loo - Leidschendam-Voorburg - Forepark - Pijnacker Centrum - Berkel Westpolder - Rotterdam Centraal - Stadhuis - Beurs - Wilhelminaplein - Zuidplein - Slinge"
+  }
+]
