@@ -1,0 +1,128 @@
+[
+  {
+    "Pays": "Allemagne",
+    "Region": "Sarre",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 1 (Südwest-Express)",
+    "Depart": "Koblenz Hbf",
+    "Terminus": "Mannheim Hbf",
+    "Gares_Desservies": "Koblenz Hbf - Cochem(Mosel) - Bullay(DB) - Wittlich Hbf - Schweich(DB) - Trier Hbf - Konz - Saarburg(Bz Trier) - Mettlach - Merzig(Saar) - Dillingen(Saar) - Saarlouis Hbf - Völklingen - Saarbrücken Hbf - St Ingbert - Homburg(Saar)Hbf - Landstuhl - Kaiserslautern Hbf - Neustadt(Weinstr)Hbf - Ludwigshafen(Rhein)Mitte - Mannheim Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Sarre",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 3 (Nahe-Express)",
+    "Depart": "Saarbrücken Hbf",
+    "Terminus": "Frankfurt(Main)Hbf",
+    "Gares_Desservies": "Saarbrücken Hbf - Neunkirchen(Saar)Hbf - Ottweiler(Saar) - St Wendel - Türkismühle - Neubrücke(Nahe) - Idar-Oberstein - Kirn - Bad Sobernheim - Bad Kreuznach - Mainz Hbf - Frankfurt(M) Flughafen Regionalbf - Frankfurt(Main)Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Sarre",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 11 (DeLux-Express)",
+    "Depart": "Luxembourg",
+    "Terminus": "Saarbrücken Hbf",
+    "Gares_Desservies": "Luxembourg - Sandweiler-Contern - Wasserbillig - Igel - Kreuz Konz - Trier Hbf - Saarburg(Bz Trier) - Mettlach - Merzig(Saar) - Dillingen(Saar) - Saarlouis Hbf - Völklingen - Saarbrücken Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Sarre",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 18",
+    "Depart": "Saarbrücken Hbf",
+    "Terminus": "Metz-Ville (France)",
+    "Gares_Desservies": "Saarbrücken Hbf - Forbach - Béning - Saint-Avold - Faulquemont - Metz-Ville"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Sarre",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 19",
+    "Depart": "Saarbrücken Hbf",
+    "Terminus": "Strasbourg-Ville (France)",
+    "Gares_Desservies": "Saarbrücken Hbf - Sarreguemines - Kalhausen - Diemeringen - Tieffenbach-Pfaffenhoffen - Puberg - Wingen-sur-Moder - Ingwiller - Saverne - Strasbourg-Ville"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Sarre",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 68",
+    "Depart": "Saarbrücken Hbf",
+    "Terminus": "Pirmasens Hbf",
+    "Gares_Desservies": "Saarbrücken Hbf - Saarbrücken Ost - Schafbrücke - Scheidt(Saar) - Rentrisch - St Ingbert - Rohrbach(Saar) - Kirkel - Limbach(b Homburg/Saar) - Homburg(Saar)Hbf - Bierbach - Blieskastel-Lautzkirchen - Würzbach(Saar) - Hassel(Saar) - Zweibrücken Hbf - Contwig - Stambach - Dellfeld - Dellfeld Ort - Rieschweiler - Höhmühlbach - Thaleischweiler-Fröschen - Pirmasens Nord - Pirmasens Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Sarre",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 70",
+    "Depart": "Merzig(Saar)",
+    "Terminus": "Kaiserslautern Hbf",
+    "Gares_Desservies": "Merzig(Saar) - Fremersdorf - Beckingen(Saar) - Dillingen(Saar) - Saarlouis Hbf - Ensdorf(Saar) - Bous(Saar) - Völklingen - Luisenthal(Saar) - Saarbrücken-Burbach - Saarbrücken Hbf - Saarbrücken Ost - Schafbrücke - Scheidt(Saar) - Rentrisch - St Ingbert - Rohrbach(Saar) - Kirkel - Limbach(b Homburg/Saar) - Homburg(Saar)Hbf - Bruchmühlbach-Miesau - Hauptstuhl - Landstuhl - Kindsbach - Einsiedlerhof - Vogelweh - Kennelgarten - Kaiserslautern Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Sarre",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 71 (Saarstrecke)",
+    "Depart": "Trier Hbf",
+    "Terminus": "Homburg(Saar)Hbf",
+    "Gares_Desservies": "Trier Hbf - Trier Süd - Karthaus - Konz - Kanzem - Wiltingen(Saar) - Schoden-Ockfen - Saarburg(Bz Trier) - Serrig - Taben - Saarhölzbach - Mettlach - Besseringen - Merzig(Saar) Stadtmitte - Merzig(Saar) - Fremersdorf - Beckingen(Saar) - Dillingen(Saar) - Saarlouis Hbf - Ensdorf(Saar) - Bous(Saar) - Völklingen - Luisenthal(Saar) - Saarbrücken-Burbach - Saarbrücken Hbf - Saarbrücken Ost - Schafbrücke - Scheidt(Saar) - Rentrisch - St Ingbert - Rohrbach(Saar) - Kirkel - Limbach(b Homburg/Saar) - Homburg(Saar)Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Sarre",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 72",
+    "Depart": "Saarbrücken Hbf",
+    "Terminus": "Lebach-Jabach",
+    "Gares_Desservies": "Saarbrücken Hbf - Fischbach-Camphausen - Quierschied - Merchweiler - Gennweiler - Illingen(Saar) - Wustweiler - Dirmingen - Eppelborn - Bubach - Lebach - Lebach-Jabach"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Sarre",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 73",
+    "Depart": "Saarbrücken Hbf",
+    "Terminus": "Neubrücke(Nahe)",
+    "Gares_Desservies": "Saarbrücken Hbf - Jägersfreude - Dudweiler - Sulzbach(Saar)Altenwald - Sulzbach(Saar) - Friedrichsthal(Saar)Mitte - Friedrichsthal(Saar) - Landsweiler-Reden - Neunkirchen(Saar)Hbf - Ottweiler(Saar) - Niederlinxweiler - St Wendel - Oberlinxweiler - Baltersweiler - Hofeld - Namborn - Walhausen(Saar) - Türkismühle - Nohfelden - Neubrücke(Nahe)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Sarre",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 74",
+    "Depart": "Illingen(Saar)",
+    "Terminus": "Homburg(Saar)Hbf",
+    "Gares_Desservies": "Illingen(Saar) - Gennweiler - Merchweiler - Quierschied - Fischbach-Camphausen - Saarbrücken Hbf - Scheidt(Saar) - St Ingbert - Kirkel - Limbach(b Homburg/Saar) - Homburg(Saar)Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Sarre",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 76",
+    "Depart": "Saarbrücken Hbf",
+    "Terminus": "Homburg(Saar)Hbf",
+    "Gares_Desservies": "Saarbrücken Hbf - Fischbach-Camphausen - Quierschied - Merchweiler - Wemmetsweiler Rathaus - Neunkirchen(Saar)Hbf - Bexbach - Homburg(Saar)Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Sarre",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 82 (Elztal-Bahn)",
+    "Depart": "Trier Hbf",
+    "Terminus": "Perl",
+    "Gares_Desservies": "Trier Hbf - Trier Süd - Karthaus - Kreuz Konz - Wellen(Mosel) - Nittel - Wincheringen - Wehr(Mosel) - Palzem - Nennig - Besch - Perl"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Sarre",
+    "Type": "Tram-Train",
+    "Ligne": "S 1 (Saarbahn)",
+    "Depart": "Lebach-Jabach",
+    "Terminus": "Sarreguemines (France)",
+    "Gares_Desservies": "Lebach-Jabach - Lebach - Landoisstraße - Riegelsberg - Walpershofen - Heusweiler - Kirschheck - Heinrichshaus - Rastpfuhl - Cottbuser Platz - Ludwigstraße - Saarbrücken Hbf - Kaiserstraße - Johanneskirche - Landwehrplatz - Römerkastell - Brebach - Güdingen - Bübingen - Kleinblittersdorf - Rilchingen-Hanweiler - Sarreguemines"
+  }
+]
