@@ -1,0 +1,137 @@
+[
+  {
+    "Pays": "Belgique",
+    "Region": "National",
+    "Type": "InterCity (IC)",
+    "Ligne": "IC-01",
+    "Depart": "Ostende",
+    "Terminus": "Eupen",
+    "Gares_Desservies": "Ostende - Bruges - Gand-Saint-Pierre - Bruxelles-Midi - Bruxelles-Central - Bruxelles-Nord - Louvain - Liège-Guillemins - Verviers-Central - Welkenraedt - Eupen"
+  },
+  {
+    "Pays": "Belgique",
+    "Region": "National",
+    "Type": "InterCity (IC)",
+    "Ligne": "IC-02",
+    "Depart": "Ostende",
+    "Terminus": "Anvers-Central",
+    "Gares_Desservies": "Ostende - Bruges - Gand-Saint-Pierre - Lokeren - Saint-Nicolas - Anvers-Berchem - Anvers-Central"
+  },
+  {
+    "Pays": "Belgique",
+    "Region": "National",
+    "Type": "InterCity (IC)",
+    "Ligne": "IC-03",
+    "Depart": "Knokke / Blankenberge",
+    "Terminus": "Genk",
+    "Gares_Desservies": "Knokke / Blankenberge - Bruges - Gand-Saint-Pierre - Bruxelles-Midi - Bruxelles-Central - Bruxelles-Nord - Louvain - Landen - Hasselt - Genk"
+  },
+  {
+    "Pays": "Belgique",
+    "Region": "National",
+    "Type": "InterCity (IC)",
+    "Ligne": "IC-05",
+    "Depart": "Charleroi-Central",
+    "Terminus": "Essen (Frontière NL)",
+    "Gares_Desservies": "Charleroi-Central - Marchienne-au-Pont - Luttre - Nivelles - Braine-l'Alleud - Bruxelles-Midi - Bruxelles-Central - Bruxelles-Nord - Vilvorde - Malines - Anvers-Berchem - Anvers-Central - Essen"
+  },
+  {
+    "Pays": "Belgique",
+    "Region": "National",
+    "Type": "InterCity (IC)",
+    "Ligne": "IC-06",
+    "Depart": "Tournai",
+    "Terminus": "Aéroport de Bruxelles-National",
+    "Gares_Desservies": "Tournai - Leuze - Ath - Enghien - Hal - Bruxelles-Midi - Bruxelles-Central - Bruxelles-Nord - Aéroport de Bruxelles-National"
+  },
+  {
+    "Pays": "Belgique",
+    "Region": "National",
+    "Type": "InterCity (IC)",
+    "Ligne": "IC-16",
+    "Depart": "Bruxelles-Midi",
+    "Terminus": "Luxembourg (Gare)",
+    "Gares_Desservies": "Bruxelles-Midi - Bruxelles-Central - Bruxelles-Nord - Bruxelles-Schuman - Bruxelles-Luxembourg - Ottignies - Gembloux - Namur - Ciney - Marloie - Marbehan - Arlon - Luxembourg"
+  },
+  {
+    "Pays": "Belgique",
+    "Region": "Transfrontalier",
+    "Type": "InterCity (IC)",
+    "Ligne": "IC-35 (Benelux)",
+    "Depart": "Bruxelles-Midi",
+    "Terminus": "Amsterdam Centraal (Pays-Bas)",
+    "Gares_Desservies": "Bruxelles-Midi - Bruxelles-Central - Bruxelles-Nord - Aéroport de Bruxelles - Malines - Anvers-Central - Breda - Rotterdam Centraal - Schiphol Airport - Amsterdam Centraal"
+  },
+  {
+    "Pays": "Belgique",
+    "Region": "Bruxelles",
+    "Type": "RER (S-Bahn)",
+    "Ligne": "S1",
+    "Depart": "Anvers-Central",
+    "Terminus": "Nivelles",
+    "Gares_Desservies": "Anvers-Central - Malines - Vilvorde - Schaerbeek - Bruxelles-Nord - Bruxelles-Central - Bruxelles-Midi - Braine-l'Alleud - Nivelles"
+  },
+  {
+    "Pays": "Belgique",
+    "Region": "Bruxelles",
+    "Type": "RER (S-Bahn)",
+    "Ligne": "S2",
+    "Depart": "Louvain",
+    "Terminus": "Braine-le-Comte",
+    "Gares_Desservies": "Louvain - Zaventem - Schaerbeek - Bruxelles-Nord - Bruxelles-Central - Bruxelles-Midi - Hal - Braine-le-Comte"
+  },
+  {
+    "Pays": "Belgique",
+    "Region": "Bruxelles",
+    "Type": "RER (S-Bahn)",
+    "Ligne": "S3",
+    "Depart": "Termonde",
+    "Terminus": "Zottegem",
+    "Gares_Desservies": "Termonde - Jette - Bruxelles-Nord - Bruxelles-Central - Bruxelles-Midi - Denderleeuw - Alost - Zottegem"
+  },
+  {
+    "Pays": "Belgique",
+    "Region": "Bruxelles",
+    "Type": "RER (S-Bahn)",
+    "Ligne": "S8",
+    "Depart": "Bruxelles-Midi",
+    "Terminus": "Ottignies / Louvain-la-Neuve",
+    "Gares_Desservies": "Bruxelles-Midi - Bruxelles-Central - Bruxelles-Nord - Bruxelles-Schuman - Bruxelles-Luxembourg - Etterbeek - Ottignies - Louvain-la-Neuve"
+  },
+  {
+    "Pays": "Belgique",
+    "Region": "Bruxelles",
+    "Type": "Métro lourd",
+    "Ligne": "M1",
+    "Depart": "Gare de l'Ouest",
+    "Terminus": "Stockel",
+    "Gares_Desservies": "Gare de l'Ouest - Beekkant - Étangs Noirs - Comte de Flandre - Sainte-Catherine - De Brouckère - Gare Centrale - Parc - Arts-Loi - Maelbeek - Schuman - Merode - Montgomery - Stockel"
+  },
+  {
+    "Pays": "Belgique",
+    "Region": "Bruxelles",
+    "Type": "Métro lourd",
+    "Ligne": "M5",
+    "Depart": "Érasme",
+    "Terminus": "Herrmann-Debroux",
+    "Gares_Desservies": "Érasme - Bizet - Gare du Midi - Porte de Hal - Gare Centrale - Arts-Loi - Schuman - Merode - Thieffry - Delta - Herrmann-Debroux"
+  },
+  {
+    "Pays": "Belgique",
+    "Region": "Charleroi",
+    "Type": "Métro léger (Tram)",
+    "Ligne": "M1 / M2",
+    "Depart": "Charleroi-Central",
+    "Terminus": "Anderlues Monument",
+    "Gares_Desservies": "Charleroi-Central - Beaux-Arts - Piges - Dampremy - Morgnies - Leessen - Monument"
+  },
+  {
+    "Pays": "Belgique",
+    "Region": "Côte Belge",
+    "Type": "Tramway Interurbain",
+    "Ligne": "Kusttram (Tram de la côte)",
+    "Depart": "La Panne (Gare)",
+    "Terminus": "Knokke (Gare)",
+    "Gares_Desservies": "De Panne - Koksijde - Nieuwpoort - Oostende (Gare) - Blankenberge (Gare) - Zeebrugge - Knokke (Plus longue ligne du monde, 67 km)"
+  }
+]
