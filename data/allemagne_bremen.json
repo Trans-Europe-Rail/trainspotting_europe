@@ -1,0 +1,110 @@
+[
+  {
+    "Pays": "Allemagne",
+    "Region": "Brême",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 1 (Basse-Saxe / Brême)",
+    "Depart": "Norddeich Mole",
+    "Terminus": "Hannover Hbf",
+    "Gares_Desservies": "Norddeich Mole - Emden Hbf - Leer(Ostfriesl) - Bad Zwischenahn - Oldenburg(Oldb)Hbf - Hude - Delmenhorst - Bremen Hbf - Achim - Verden(Aller) - Nienburg(Weser) - Neustadt am Rübenberge - Hannover Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Brême",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 4 (Basse-Saxe / Brême)",
+    "Depart": "Bremen Hbf",
+    "Terminus": "Hamburg Hbf",
+    "Gares_Desservies": "Bremen Hbf - Rotenburg(Wümme) - Tostedt - Buchholz(Nordheide) - Hamburg-Harburg - Hamburg Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Brême",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 8",
+    "Depart": "Bremerhaven-Lehe",
+    "Terminus": "Hannover Hbf",
+    "Gares_Desservies": "Bremerhaven-Lehe - Bremerhaven Hbf - Osterholz-Scharmbeck - Bremen Hbf - Achim - Verden(Aller) - Nienburg(Weser) - Hannover Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Brême",
+    "Type": "Regional-Express (RE)",
+    "Ligne": "RE 9",
+    "Depart": "Bremerhaven-Lehe",
+    "Terminus": "Osnabrück Hbf",
+    "Gares_Desservies": "Bremerhaven-Lehe - Bremerhaven Hbf - Osterholz-Scharmbeck - Bremen Hbf - Kirchweyhe - Syke - Bassum - Twistringen - Barnstorf(Han) - Diepholz - Lemförde - Bohmte - Osnabrück Hbf"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Brême",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 37",
+    "Depart": "Bremen Hbf",
+    "Terminus": "Uelzen",
+    "Gares_Desservies": "Bremen Hbf - Achim - Langwedel - Visselhövede - Soltau(Han) - Munster(Örtze) - Uelzen"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Brême",
+    "Type": "Regionalbahn (RB)",
+    "Ligne": "RB 58 (NordWestBahn)",
+    "Depart": "Bremen Hbf",
+    "Terminus": "Osnabrück Altstadt",
+    "Gares_Desservies": "Bremen Hbf - Delmenhorst - Ganderkesee - Wildeshausen - Rechterfeld - Goldenstedt(Oldb) - Vechta - Lohne(Oldb) - Mühlen(Oldb) - Steinfeld(Oldb) - Holdorf(Oldb) - Neuenkirchen(Oldb) - Rieste - Hesepe - Bramsche - Achmer - Halen - Osnabrück Altstadt"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Brême",
+    "Type": "Banlieue (Regio-S-Bahn)",
+    "Ligne": "RS 1",
+    "Depart": "Bremen-Farge",
+    "Terminus": "Verden(Aller)",
+    "Gares_Desservies": "Bremen-Farge - Bremen-Turnerstraße - Bremen-Kreinsloger - Bremen-Mühlenstraße - Bremen-Blumenthal - Bremen-Klinikum Nord - Bremen-Aumund - Bremen-Vegesack - Bremen-Schönebeck - Bremen-Lesum - Bremen-Burg - Bremen-Oslebshausen - Bremen-Walle - Bremen Hbf - Bremen-Sebaldsbrück - Bremen-Mahndorf - Achim - Baden(b Verden) - Etelsen - Langwedel - Verden(Aller)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Brême",
+    "Type": "Banlieue (Regio-S-Bahn)",
+    "Ligne": "RS 2",
+    "Depart": "Bremerhaven-Lehe",
+    "Terminus": "Twistringen",
+    "Gares_Desservies": "Bremerhaven-Lehe - Bremerhaven Hbf - Bremerhaven-Wulsdorf - Loxstedt - Lunestedt - Stubben - Lübberstedt - Oldenbüttel - Osterholz-Scharmbeck - Ritterhude - Bremen-Burg - Bremen Hbf - Bremen-Hemelingen - Dreye - Kirchweyhe - Barrien - Syke - Bramstedt(b Syke) - Bassum - Twistringen"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Brême",
+    "Type": "Banlieue (Regio-S-Bahn)",
+    "Ligne": "RS 3",
+    "Depart": "Bremen Hbf",
+    "Terminus": "Bad Zwischenahn",
+    "Gares_Desservies": "Bremen Hbf - Bremen-Neustadt - Delmenhorst - Hoykenkamp - Schierbrok - Bookholzberg - Hude - Wüsting - Oldenburg(Oldb)Hbf - Oldenburg-Wechloy - Bad Zwischenahn"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Brême",
+    "Type": "Banlieue (Regio-S-Bahn)",
+    "Ligne": "RS 4",
+    "Depart": "Bremen Hbf",
+    "Terminus": "Nordenham",
+    "Gares_Desservies": "Bremen Hbf - Bremen-Neustadt - Delmenhorst - Hoykenkamp - Schierbrok - Bookholzberg - Hude - Berne - Elsfleth - Kirchhammelwarden - Brake(Unterweser) - Rodenkirchen(Oldb) - Kleinensiel - Nordenham"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Brême",
+    "Type": "Tramway",
+    "Ligne": "Tram 1 (BSAG)",
+    "Depart": "Huchting (Heinrich-Plett-Straße)",
+    "Terminus": "Mahndorf Bahnhof",
+    "Gares_Desservies": "Huchting - Sielhof - Am Brill - Hauptbahnhof - Am Dobben - Berliner Freiheit - S-Bahnhof Mahndorf (Ligne majeure traversant l'estuaire et le centre)"
+  },
+  {
+    "Pays": "Allemagne",
+    "Region": "Brême",
+    "Type": "Tramway",
+    "Ligne": "Tram 4 (BSAG)",
+    "Depart": "Arsten",
+    "Terminus": "Lilienthal (Falkenberg) (Basse-Saxe)",
+    "Gares_Desservies": "Arsten - Kattenturm - Domsheide - Hauptbahnhof - Kirche Schwachhausen - Horner Kirche - Borgfeld - Lilienthal (Ligne transfrontalière entre les deux États fédérés, idéale spotteurs)"
+  }
+]
