@@ -1,0 +1,128 @@
+[
+  {
+    "Pays": "Pologne",
+    "Region": "National (Grandes Lignes)",
+    "Type": "Express Intercity Premium (EIP - Pendolino)",
+    "Ligne": "EIP 1300 / EIP 3500 / EIP 1600 / EIP 4500",
+    "Depart": "Warszawa Wschodnia / Kraków Główny / Katowice",
+    "Terminus": "Kraków Główny / Gdynia Główna / Wrocław Główny",
+    "Gares_Desservies": "Warszawa (Centralna / Zachodnia / Wschodnia) - Kraków Główny - Katowice - Sosnowiec Główny - Częstochowa Stradom - Opole Główne - Wrocław Główny - Malbork - Tczew - Gdańsk Główny - Gdańsk Wrzeszcz - Gdańsk Oliwa - Sopot - Gdynia Główna"
+  },
+  {
+    "Pays": "Pologne",
+    "Region": "National (Interurbain)",
+    "Type": "InterCity (IC) / TLK",
+    "Ligne": "Réseau Magistral PKP Intercity",
+    "Depart": "Principales Gares Nationales",
+    "Terminus": "Terminus Nationaux et Frontaliers",
+    "Gares_Desservies": "Warszawa, Kraków, Łódź (Fabryczna/Widzew), Katowice, Gliwice, Wrocław, Poznań Główny, Szczecin Główny, Gdańsk, Gdynia, Bialystok, Lublin Główny, Rzeszów Główny, Przemyśl, Zakopane, Olsztyn Główny, Kielce, Radom, Toruń Główny, Bydgoszcz Główna, Częstochowa"
+  },
+  {
+    "Pays": "Pologne",
+    "Region": "Basse-Silésie (Dolny Śląsk)",
+    "Type": "Régional / Banlieue (Koleje Dolnośląskie)",
+    "Ligne": "KD D1 à KD D29 (Réseau Complet)",
+    "Depart": "Wrocław Główny / Legnica / Jelenia Góra",
+    "Terminus": "Zgorzelec (Görlitz) / Lubań / Wałbrzych / Kłodzko / Kudowa-Zdrój / Trzebnica / Rawicz / Szklarska Poręba",
+    "Gares_Desservies": "Wrocław Główny, Wrocław Muchobór, Leśnica, Środa Śląska, Malczyce, Legnica, Bolesławiec, Węgliniec, Zgorzelec, Görlitz (DE), Jawor, Strzegom, Świdnica, Dzierżoniów, Wałbrzych Główny, Jelenia Góra, Szklarska Poręba Jakuszyce, Kłodzko Główne, Kudowa-Zdrój, Rawicz, Trzebnica, Lubin, Głogów"
+  },
+  {
+    "Pays": "Pologne",
+    "Region": "Silésie (Śląsk)",
+    "Type": "Régional / Banlieue (Koleje Śląskie)",
+    "Ligne": "KŚ S1 à KŚ S8 / KŚ S31 / KŚ S71 / KŚ S72 (Réseau Complet)",
+    "Depart": "Katowice / Gliwice / Częstochowa / Rybnik",
+    "Terminus": "Częstochowa / Gliwice / Wisła Głębce / Zwardoń / Racibórz / Bohumín (CZ) / Zakopane / Oświęcim / Lubliniec",
+    "Gares_Desservies": "Gliwice, Zabrze, Chorzów Batory, Katowice, Sosnowiec Główny, Będzin, Dąbrowa Górnicza, Zawiercie, Myszków, Częstochowa, Tychy, Pszczyna, Czechowice-Dziedzice, Bielsko-Biała Główna, Żywiec, Milówka, Zwardoń (Frontière SK), Skoczów, Ustroń, Wisła Głębce, Rybnik, Wodzisław Śląski, Chałupki, Bohumín (CZ), Racibórz, Oświęcim, Lubliniec"
+  },
+  {
+    "Pays": "Pologne",
+    "Region": "Grande-Pologne (Wielkopolska)",
+    "Type": "Régional / Banlieue (Koleje Wielkopolskie)",
+    "Ligne": "KW KW1 à KW KW14 (Réseau Complet)",
+    "Depart": "Poznań Główny",
+    "Terminus": "Kutno / Gołańcz / Wągrowiec / Zbąszynek / Kępno / Leszno / Kalisz / Gniezno / Mogilno / Piła Główna",
+    "Gares_Desservies": "Poznań Główny, Swarzędz, Kostrzyn Wielkopolski, Września, Konin, Koło, Kutno, Wągrowiec, Gołańcz, Gniezno, Mogilno, Opalenica, Nowy Tomyśl, Zbąszyń, Zbąszynek, Leszno, Rawicz, Środa Wielkopolska, Jarocin, Pleszew, Kalisz, Ostrów Wielkopolski, Kępno, Oborniki Wielkopolskie, Chodzież, Piła Główna"
+  },
+  {
+    "Pays": "Pologne",
+    "Region": "Poméranie / Littoral (Trójmiasto)",
+    "Type": "RER Littoral (Szybka Kolej Miejska)",
+    "Ligne": "SKM S1 / SKM S2 / PKM (Pomorska Kolej Metropolitalna)",
+    "Depart": "Gdańsk Śródmieście / Gdańsk Wrzeszcz",
+    "Terminus": "Gdynia Główna / Wejherowo / Lębork / Słupsk / Kartuzy / Kościerzyna / Aéroport de Gdańsk",
+    "Gares_Desservies": "Gdańsk Śródmieście, Gdańsk Główny, Gdańsk Stocznia, Gdańsk Politechnika, Gdańsk Wrzeszcz, Gdańsk Oliwa, Sopot, Gdynia Główna, Gdynia Chylonia, Rumia, Reda, Wejherowo, Lębork, Słupsk, Gdańsk Port Lotniczy (Aéroport), Kartuzy, Kościerzyna"
+  },
+  {
+    "Pays": "Pologne",
+    "Region": "Petite-Pologne (Małopolska)",
+    "Type": "Régional / Banlieue (Koleje Małopolskie)",
+    "Ligne": "KMAL SKA1 / SKA2 / SKA3 (Réseau Complet)",
+    "Depart": "Kraków Główny / Kraków Lotnisko",
+    "Terminus": "Wieliczka Rynek / Miechów / Sędziszów / Tarnów / Krynica-Zdrój / Zakopane / Oświęcim",
+    "Gares_Desservies": "Kraków Lotnisko (Aéroport), Kraków Łobzów, Kraków Główny, Kraków Zabłocie, Kraków Podgórze, Wieliczka Rynek Kopalnia, Kraków Batowice, Niedźwiedź, Słomniki, Miechów, Sędziszów, Kraków Płaszów, Podłęże, Bochnia, Brzesko Okocim, Tarnów, Nowy Sącz, Krynica-Zdrój, Zakopane, Skawina, Kalwaria Zebrzydowska, Oświęcim"
+  },
+  {
+    "Pays": "Pologne",
+    "Region": "Mazovie (Mazowsze)",
+    "Type": "Régional / Banlieue (Koleje Mazowieckie)",
+    "Ligne": "KM R1 / R2 / R3 / R6 / R7 / R8 / R9 / RL (Réseau Complet)",
+    "Depart": "Warszawa Śródmieście / Warszawa Centralna",
+    "Terminus": "Skierniewice / Łuków / Kutno / Małkinia / Dęblin / Skarżysko-Kamienna / Działdowo / Modlin (Aéroport)",
+    "Gares_Desservies": "Warszawa Śródmieście, Warszawa Zachodnia, Pruszków, Grodzisk Mazowiecki, Żyrardów, Skierniewice, Warszawa Wschodnia, Sulejówek, Mińsk Mazowiecki, Siedlce, Łuków, Ożarów Mazowiecki, Sochaczew, Łowicz Główny, Kutno, Wołomin, Tłuszcz, Małkinia, Warszawa Stadion, Otwock, Celestynów, Pilawa, Dęblin, Piaseczno, Czachówek, Warka, Radom Główny, Skarżysko-Kamienna, Legionowo, Nowy Dwór Mazowiecki, Modlin, Nasielsk, Ciechanów, Mława, Działdowo"
+  },
+  {
+    "Pays": "Pologne",
+    "Region": "Łódź (Aglomeracja Łódzka)",
+    "Type": "Régional / Banlieue (ŁKA / Polregio)",
+    "Ligne": "ŁKA Linii / Réseau Métropolitain Łódź",
+    "Depart": "Łódź Fabryczna / Łódź Kaliska / Łódź Widzew",
+    "Terminus": "Sieradz / Kutno / Łowicz Główny / Piotrków Trybunalski / Radomsko / Skierniewice / Warszawa",
+    "Gares_Desservies": "Łódź Fabryczna, Łódź Niciarniana, Łódź Widzew, Łódź Kaliska, Łódź Żabieniec, Pabianice, Łask, Zduńska Wola, Sieradz, Zgierz, Ozorków, Łęczyca, Kutno, Stryków, Głowno, Łowicz Główny, Rokiciny, Piotrków Trybunalski, Radomsko, Koluszki, Skierniewice, Żyrardów, Warszawa Zachodnia"
+  },
+  {
+    "Pays": "Pologne",
+    "Region": "Cujavie-Poméranie / Nord",
+    "Type": "Régional (Arriva RP / Polregio)",
+    "Ligne": "Arriva AR1 à AR5 / Réseau Régional Nord",
+    "Depart": "Toruń Główny / Bydgoszcz Główna",
+    "Terminus": "Grudziądz / Chojnice / Brodnica / Wierzchucin / Olsztyn Główny",
+    "Gares_Desservies": "Toruń Główny, Toruń Miasto, Chełmża, Grudziądz, Bydgoszcz Główna, Solec Kujawski, Wierzchucin, Chojnice, Tuchola, Laskowice Pomorskie, Brodnica, Inowrocław, Jabłonowo Pomorskie, Olsztyn Główny"
+  },
+  {
+    "Pays": "Pologne",
+    "Region": "National (Omnibus)",
+    "Type": "Régional (Polregio / Regio)",
+    "Ligne": "Réseau Trans-régional Inter-villes",
+    "Depart": "Toutes Régions Polonaises",
+    "Terminus": "Maillage Local et Frontalier",
+    "Gares_Desservies": "Desserte omnibus de l'intégralité des lignes secondaires reliant les petites villes et villages des voïvodies de Lublin, Basses-Carpathes, Podlasie, Sainte-Croix, Opole, Lubusz, Poméranie occidentale, Warmie-Mazurie"
+  },
+  {
+    "Pays": "Pologne",
+    "Region": "Varsovie (Urbain)",
+    "Type": "Banlieue Urbaine (SKM Varsovie)",
+    "Ligne": "S1 / S2 / S3 / S4",
+    "Depart": "Otwock / Sulejówek Miłosna / Lotnisko Chopina / Piaseczno",
+    "Terminus": "Pruszków / Lotnisko Chopina / Radzymin / Wieliszew / Zegrze Południowe",
+    "Gares_Desservies": "Otwock, Józefów, Warszawa Falenica, Warszawa Wawer, Warszawa Olszynka Grochowska, Warszawa Wschodnia, Warszawa Stadion, Warszawa Powiśle, Warszawa Śródmieście, Warszawa Ochota, Warszawa Zachodnia, Warszawa Włochy, Piastów, Pruszków, Sulejówek Miłosna, Sulejówek, Warszawa Rembertów, Warszawa Al. Jerozolimskie, Warszawa Rakowiec, Warszawa Żwirki i Wigury, Warszawa Służewiec, Warszawa Lotnisko Chopina (Aéroport), Warszawa Wola, Warszawa Młynów, Warszawa Gdańska, Warszawa ZOO, Warszawa Praga, Warszawa Toruńska, Legionowo, Wieliszew, Radzymin, Zegrze Południowe, Piaseczno"
+  },
+  {
+    "Pays": "Pologne",
+    "Region": "Varsovie (Urbain)",
+    "Type": "Métro lourd",
+    "Ligne": "M1",
+    "Depart": "Kabaty",
+    "Terminus": "Młociny",
+    "Gares_Desservies": "Kabaty - Natolin - Imielin - Stokłosy - Ursynów - Służew - Wilanowska - Wierzbno - Racławicka - Pole Mokotowskie - Politechnika - Centrum (Gare centrale) - Świętokrzyska - Ratusz Arsenał - Dworzec Gdański (Gare Nord) - Plac Wilsona - Marymont - Słodowiec - Stare Bielany - Wawrzyszew - Młociny"
+  },
+  {
+    "Pays": "Pologne",
+    "Region": "Varsovie (Urbain)",
+    "Type": "Métro lourd",
+    "Ligne": "M2",
+    "Depart": "Bemowo",
+    "Terminus": "Bródno",
+    "Gares_Desservies": "Bemowo - Ulrychów - Księcia Janusza - Młynów - Płocka - Rondo Daszyńskiego - Rondo ONZ - Świętokrzyska - Nowy Świat-Uniwersytet - Centrum Nauki Kopernik - Stadion Narodowy - Dworzec Wileński - Szwedzka - Targówek Mieszkaniowy - Trocka - Zacisze - Kondratowicza - Bródno"
+  }
+]
