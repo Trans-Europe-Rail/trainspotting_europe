@@ -1,0 +1,110 @@
+[
+  {
+    "Pays": "Grèce",
+    "Region": "National (Axe Magistral)",
+    "Type": "InterCity (IC)",
+    "Ligne": "IC Athènes - Thessalonique",
+    "Depart": "Athènes (Gare de Larissa)",
+    "Terminus": "Thessalonique",
+    "Gares_Desservies": "Athènes (Larissa) - SKA - Inoi - Thiva - Livadia - Lianokladi - Palaiofarsalos - Larissa - Katerini - Platy - Thessalonique (Ligne principale électrifiée, rames réversibles et automotrices ETR 470)"
+  },
+  {
+    "Pays": "Grèce",
+    "Region": "Grèce-Centrale / Régional",
+    "Type": "Train Régional",
+    "Ligne": "Ligne Lianokladi - Lamia - Stylida",
+    "Depart": "Lianokladi",
+    "Terminus": "Stylida",
+    "Gares_Desservies": "Lianokladi - Lamia - Roditsa - Megali Vrysi - Agia Paraskevi - Stylida (Ligne secondaire locale thermique)"
+  },
+  {
+    "Pays": "Grèce",
+    "Region": "Péloponnèse / Régional",
+    "Type": "Train Touristique / Voie Étroite",
+    "Ligne": "Ligne du Diakopto - Kalavryta (Odontotos)",
+    "Depart": "Diakopto",
+    "Terminus": "Kalavryta",
+    "Gares_Desservies": "Diakopto - Zachlorou - Kalavryta (Ligne mythique à voie étroite de 750 mm avec sections à crémaillère à travers les gorges du Vouraïkos, rames Stadler)"
+  },
+  {
+    "Pays": "Grèce",
+    "Region": "Athènes (Attique)",
+    "Type": "RER / Banlieue (Proastiakos)",
+    "Ligne": "Proastiakos Ligne 1",
+    "Depart": "Le Pirée (Piraeus)",
+    "Terminus": "Aéroport d'Athènes (Eleftherios Venizelos)",
+    "Gares_Desservies": "Piraeus - Lefka - Rentis - Tavros - Athènes (Larissa) - Agii Anargyroi - Pyrgos Vasilissis - Lykovrysi - SKA - Metamorfosi - Heraklio - Nerantziotissa - Kifisias - Pentelis - Plakentias - Pallini - Paiania-Kantza - Koropi - Aéroport d'Athènes"
+  },
+  {
+    "Pays": "Grèce",
+    "Region": "Athènes (Attique)",
+    "Type": "RER / Banlieue (Proastiakos)",
+    "Ligne": "Proastiakos Ligne 2",
+    "Depart": "Athènes (Gare de Larissa)",
+    "Terminus": "Kiato (Péloponnèse)",
+    "Gares_Desservies": "Athènes (Larissa) - Agii Anargyroi - SKA - Ano Liosia - Aspropyrgos - Magoula - Nea Peramos - Megara - Kineta - Agii Theodori - Corinthe (Korinthos) - Kiato"
+  },
+  {
+    "Pays": "Grèce",
+    "Region": "Thessalonique / Banlieue",
+    "Type": "RER / Banlieue (Proastiakos)",
+    "Ligne": "Proastiakos Thessalonique",
+    "Depart": "Thessalonique",
+    "Terminus": "Larissa",
+    "Gares_Desservies": "Thessalonique - Sindos - Adendro - Platy - Aiginio - Korinos - Katerini - Litochoro - Leptokarya - Nei Pori - Rapsani - Evangelismos - Larissa"
+  },
+  {
+    "Pays": "Grèce",
+    "Region": "Patras / Banlieue",
+    "Type": "RER / Banlieue (Proastiakos)",
+    "Ligne": "Proastiakos Patras (Voie Étroite)",
+    "Depart": "Agios Andreas",
+    "Terminus": "Agios Vasileios",
+    "Gares_Desservies": "Agios Andreas - Patras Central - Panachaiki - Bozaitika - Kastellokampos - Rio - Aktaio - Agios Vasileios (Voie métrique de 1000 mm, automotrices Stadler GTW)"
+  },
+  {
+    "Pays": "Grèce",
+    "Region": "Athènes (Agglomération)",
+    "Type": "Métro lourd",
+    "Ligne": "Ligne 1 (Verte)",
+    "Depart": "Piraeus (Le Pirée)",
+    "Terminus": "Kifissia",
+    "Gares_Desservies": "Piraeus - Faliro - Moschato - Tavros - Kallithea - Petralona - Thiseio - Monastiraki - Omonia - Viktoria - Attiki - Agios Nikolaos - Kato Patisia - Agios Eleftherios - Ano Patisia - Perissos - Pefkakia - Nea Ionia - Heraklio - Irini (Stade Olympique) - Nerantziotissa - Marousi - KAT - Kifissia (Ligne historique, presque entièrement aérienne ou en tranchée ouverte, idéale spotteurs)"
+  },
+  {
+    "Pays": "Grèce",
+    "Region": "Athènes (Agglomération)",
+    "Type": "Métro lourd",
+    "Ligne": "Ligne 2 (Rouge)",
+    "Depart": "Anthoupoli",
+    "Terminus": "Elliniko",
+    "Gares_Desservies": "Anthoupoli - Peristeri - Agios Antonios - Sepolia - Attiki - Larissa Station (Gare) - Metaxourgeio - Omonia - Panepistimio - Syntagma - Akropoli - Sygrou-Fix - Neos Kosmos - Agios Ioannis - Dafni - Agios Dimitrios - Ilioupoli - Alimos - Argyroupoli - Elliniko"
+  },
+  {
+    "Pays": "Grèce",
+    "Region": "Athènes (Agglomération)",
+    "Type": "Métro lourd",
+    "Ligne": "Ligne 3 (Bleue)",
+    "Depart": "Dimotiko Theatro (Le Pirée)",
+    "Terminus": "Aéroport d'Athènes / Doukissis Plakentias",
+    "Gares_Desservies": "Dimotiko Theatro - Piraeus (Gare) - Maniatika - Nikaia - Korydallos - Agia Varvara - Agia Marina - Egaleo - Eleonas - Kerameikos - Monastiraki - Syntagma - Evangelismos - Megaro Moussikis - Ambelokipi - Panormou - Katehaki - Ethniki Amyna - Holargos - Nomismatokoopio - Agia Paraskevi - Chalandri - Doukissis Plakentias - Pallini - Paiania-Kantza - Koropi - Aéroport d'Athènes (Tronçon partagé avec les voies Proastiakos à partir de Plakentias)"
+  },
+  {
+    "Pays": "Grèce",
+    "Region": "Athènes (Littoral)",
+    "Type": "Tramway",
+    "Ligne": "Ligne T6",
+    "Depart": "Syntagma (Centre Athènes)",
+    "Terminus": "Pikrodafni (Edem)",
+    "Gares_Desservies": "Syntagma - Zappeio - Fix - Kasomouli - Neos Kosmos - Baknana - Aegeou - Agias Paraskevis - Megalou Alexandrou - Achilleos - Amphitheas - Panagitsa - Edem - Pikrodafni"
+  },
+  {
+    "Pays": "Grèce",
+    "Region": "Athènes (Littoral)",
+    "Type": "Tramway",
+    "Ligne": "Ligne T7",
+    "Depart": "Asklepieio Voulas",
+    "Terminus": "Akti Poseidonos (Le Pirée)",
+    "Gares_Desservies": "Asklepieio Voulas - Kolymvitirio - Glyfada - Paralia Glyfadas - Elliniko - Kalamaki - Zefyros - Pikrodafni - Flisvos - Tzitzifies - SEF (Stade de la Paix et de l'Amitié) - Evangelistria - Dimotiko Theatro Piraeus - Akti Poseidonos (Ligne côtière longeant le golfe Saronique, rames Alstom Citadis 305)"
+  }
+]
